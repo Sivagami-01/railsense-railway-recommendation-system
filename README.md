@@ -805,6 +805,6 @@ The `scratch/` directory contains route, gap, and integration diagnostic scripts
 
 ## 20. Author Details
 
-**Author Name:** Not found in the current source code  
+**Author Name:** Madhumitha S & Sivagami G
 **Project Name:** RailSense – Railway Alternative Train Recommendation System  
 **Purpose:** Academic/portfolio railway decision support and machine-learning demonstration project
