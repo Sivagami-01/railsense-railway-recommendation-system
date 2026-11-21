@@ -1,0 +1,1357 @@
+=== MISSING STATIONS REPORT ===
+Total trains referencing missing stations: 1,354
+
+Train #09022 (JAMMU TAWI - BANDRA TERMINUS AC Suvidha Special (Starts 5 April)) references missing station code(s): KTTY, OKAC, OSHI
+Train #11027 (Mumbai CST-Chennai Mail) references missing station code(s): NRPD
+Train #11037 (PUNE - GORAKHPUR Exp) references missing station code(s): DDYX
+Train #11038 (GORAKHPUR - PUNE Exp) references missing station code(s): DDYX
+Train #11039 (Maharashtra Express) references missing station code(s): WRD
+Train #11039-Slip (Kolhapur-Gorakhpur Express Slip) references missing station code(s): HRD
+Train #11040 (Maharashtra Express) references missing station code(s): WRD
+Train #11040-Slip (Gondia-Solapur Maharashtra Express Slip) references missing station code(s): WRD
+Train #11041 (Mumbai - Chennai Express) references missing station code(s): NRPD
+Train #11056 (GORAKHPUR - MUMBAI LTT Exp) references missing station code(s): PFMA
+Train #11057 (Dadar Amritsar Express) references missing station code(s): HRD
+Train #11058 (Amritsar Dadar Express) references missing station code(s): HRD
+Train #11059 (MUMBAI LTT - CHHAPRA Godan Exp) references missing station code(s): BSGS, BSLX, IGPX, PFMA
+Train #11060 (CHHAPRA - MUMBAI LTT Godan Exp) references missing station code(s): BSGS, BSLX, IGPX, PFMA
+Train #11062 (DARBHANGA - MUMBAI LTT Pawan Exp) references missing station code(s): BSGS, BSLX, IGPX
+Train #05650 (Kamakhya - Mumbai LTT (Weekly) Special) references missing station code(s): HRD, PTG
+Train #05697 (Hill Queen Express) references missing station code(s): LFG
+Train #05698 (Hill Queen Express) references missing station code(s): LFG
+Train #06201 (Mysore-Sainagar Shirdi Special) references missing station code(s): NZH
+Train #06202 (Sainagar Shirdi - Mysore Special) references missing station code(s): NZH
+Train #06301 (Nagercoil-Mangalore Special) references missing station code(s): KALD, PKP
+Train #06302 (Mangalore-Nagercoil Special) references missing station code(s): KALD, PKP
+Train #07105 (Ajmer - Hyderabad Special) references missing station code(s): HRD
+Train #07144 (Shahu Maharaj T. Kolhapur - Hyderabad Special) references missing station code(s): NRPD
+Train #08004 (Mysore - Howrah Special) references missing station code(s): NZH
+Train #08469 (Puri-Bangalore weekly Garib Rath special) references missing station code(s): VEP
+Train #08470 (Bangalore-Puri Garib Rath Special) references missing station code(s): VEP
+Train #09021 (BANDRA TERMINUS - JAMMU TAWI AC Suvidha Special (Starts 4 April)) references missing station code(s): KTTY, OKAC, OSHI
+Train #09051 (Valsad-Varanasi Weekly Special) references missing station code(s): HRD
+Train #09221 (Porbandar Secunderabad Weekly Special) references missing station code(s): CDLD
+Train #09561 (Bandra Terminus Okha Weekly Special) references missing station code(s): CDLD
+Train #11015 (Kushinagar Express) references missing station code(s): GOV, HRD
+Train #13401 (InterCity Express) references missing station code(s): PTG
+Train #09222 (Secunderabad-Porbandar Weekly Special) references missing station code(s): CDLD
+Train #09405 (Ahmedabad Yesvantpur (Weekly) Special) references missing station code(s): NRPD
+Train #09406 (Yeshwantpur-Ahmedabad Special) references missing station code(s): NRPD
+Train #09562 (Okha - Bandra Terminus Weekly Special) references missing station code(s): CDLD
+Train #09715 (Jaipur Solapur (Weekly) Special) references missing station code(s): HRD
+Train #09716 (Solapur - Jaipur Special) references missing station code(s): HRD
+Train #09721 (Jaipur Delhi Sarai Rohilla SF Special) references missing station code(s): TJNR
+Train #09735 (Secunderabad-Jaipur Special) references missing station code(s): WRD
+Train #09736 (Jaipur - Secunderabad (Weekly) Special) references missing station code(s): WRD
+Train #09741 (Rewari - Delhi Sarai Rohilla (Daily) Special) references missing station code(s): TJNR
+Train #09742 (Delhi Sarai Rohilla - Rewari (Daily) Special) references missing station code(s): TJNR
+Train #10215 (Madgaon Ernakulam Weekly Super Fast Express) references missing station code(s): KALD, PKP
+Train #10216 (Ernakulam Madgaon Weekly SF Express) references missing station code(s): KALD, PKP
+Train #11014 (Coimbatore Mumbai LTT Express) references missing station code(s): NRPD
+Train #11016 (Kushinagar Express) references missing station code(s): GOV, HRD
+Train #02082 (Loharu - Jaipur Passenger Spl (MG)) references missing station code(s): BOTR, BOX, NRKE
+Train #02083 (Jaipur-Loharu MG Passenger Special) references missing station code(s): BOTR, BOX, NRKE
+Train #02084 (Loharu - Jaipur Passenger Spl (MG)) references missing station code(s): BOTR, BOX, NRKE
+Train #02093 (Jaipur Loharu Passenger) references missing station code(s): BOTR, BOX, NRKE
+Train #02413 (Sadulpur-Shri Ganganagar Passenger Special) references missing station code(s): KALN, NRWI, SHRG, TLI
+Train #02451 (Kalka Shimla Holiday Special) references missing station code(s): SBY
+Train #02452 (Shimla Kalka Holiday Special) references missing station code(s): SBY
+Train #02453 (Kalka Shimla Holiday Special) references missing station code(s): SBY
+Train #02454 (Shimla Kalka Holiday Special) references missing station code(s): SBY
+Train #03283 (Rajendra Nagar-Tatanagar Special) references missing station code(s): PTG
+Train #03284 (Tatanagar-Rajendra Nagar Special) references missing station code(s): PTG
+Train #04011 (Sainagar Shirdi - H. Nizamuddin (Weekly) Special) references missing station code(s): HRD
+Train #04115 (Allahabad - Mumbai LTT (Weekly) Special) references missing station code(s): GOV, HRD
+Train #02081 (Jaipur Luharu Special) references missing station code(s): BOTR, BOX, NRKE
+Train #04116 (Mumbai LTT-Allahabad Special) references missing station code(s): GOV, HRD
+Train #11067-Slip (Saket Express Slip) references missing station code(s): HRD
+Train #11109 (Jhansi-Lucknow Intercity Express) references missing station code(s): GOV
+Train #11110 (Lucknow-Jhansi InterCity) references missing station code(s): GOV
+Train #11123 (Barauni-Gwalior Mail) references missing station code(s): GOV
+Train #11124 (Gwalior Barauni Mail) references missing station code(s): GOV
+Train #11454 (Prerna Express) references missing station code(s): WRD
+Train #11067 (MUMBAI LTT - FAIZABAD Saket Exp) references missing station code(s): BSGS, BSLX, IGPX
+Train #11069 (Tulsi Express) references missing station code(s): HRD
+Train #11070 (Tulsi Express) references missing station code(s): HRD
+Train #11071 (Kamayani Express) references missing station code(s): HRD
+Train #11072 (Kamayani Express) references missing station code(s): HRD
+Train #11077 (Jhelum Express) references missing station code(s): HRD
+Train #11078 (Jhelum Express) references missing station code(s): HRD
+Train #11087 (Veraval Pune Express) references missing station code(s): CDLD
+Train #11088 (Pune Veraval Express) references missing station code(s): CDLD
+Train #11091 (BHUJ - PUNE Ahimsa Exp) references missing station code(s): GNSYM, INDRG
+Train #11092 (PUNE - BHUJ Ahimsa Exp) references missing station code(s): GNSYM, INDRG
+Train #11093 (MUMBAI CST - VARANASI Mahanagari Exp) references missing station code(s): IGPX
+Train #11105 (Pratham Swatantrata Sangram Express) references missing station code(s): GOV, PTG
+Train #11106 (Pratham Swatantrata Sangram Express) references missing station code(s): GOV, PTG
+Train #11401 (Nandigram Express) references missing station code(s): WRD
+Train #11402 (Nandigram Express) references missing station code(s): WRD
+Train #11447 (JABALPUR - KOL HOWRAH Shaktipunj Exp) references missing station code(s): CUKI, DIWR, KANL
+Train #11448 (HOWRAH - JABALPUR Shaktipunj Exp) references missing station code(s): CUKI, DIWR, KANL
+Train #11449 (JABALPUR - SHRI MATA VAISHNO DEVI KATRA Express) references missing station code(s): CRWL, LNMA, MNVL, OKAC
+Train #11450 (SHRI MATA VAISHNO DEVI KATRA - JABALPUR Express) references missing station code(s): CRWL, LNMA, MNVL, OKAC
+Train #11453 (Prerna Express) references missing station code(s): WRD
+Train #11463 (Somnath-Jabalpur Express) references missing station code(s): CDLD
+Train #11464 (Jabalpur-Somnath Express) references missing station code(s): CDLD
+Train #12020 (Ranchi-Howrah Shatabdi Express) references missing station code(s): JONA
+Train #11465 (SOMNATH - JABALPUR Exp (via Bina)) references missing station code(s): KGWD, XX-CLDO, XX-SUNB, YY-BPLC
+Train #11702 (INDORE - JABALPUR Intercity Exp) references missing station code(s): YY-BINP
+Train #12008 (MYSORE - CHENNAI CENT Shatabdi Express) references missing station code(s): CNP, KNDV, PHVP
+Train #12015 (New Delhi-Ajmer Shatabdi) references missing station code(s): TJNR
+Train #12016 (Ajmer-New Delhi Shatabdi) references missing station code(s): TJNR
+Train #12023 (Howrah-Patna Jan Shatabdi) references missing station code(s): PTG
+Train #12024 (Patna-Howrah Jan Shatabdi) references missing station code(s): PTG
+Train #12107 (Mumbai LTT Lucknow Superfast Express) references missing station code(s): GOV, HRD
+Train #12108 (Lucknow Mumbai LTT Superfast Express) references missing station code(s): GOV, HRD
+Train #12075 (Kozhikode-Trivandrum Jan Shatabdi Express) references missing station code(s): THZI
+Train #12076 (Trivandrum-Kozhikode Jan Shatabdi Express) references missing station code(s): THZI
+Train #12101 (MUMBAI LTT - HOWRAH Janeswari Super Deluxe Exp) references missing station code(s): AQX, BDX, BDYD, BSGS, BSLX, GVDP, IGPX, KGPW, SGBB, XX-BDXO
+Train #12102 (HOWRAH - MUMBAI LTT Janeswari Super Deluxe Exp) references missing station code(s): AQX, BDX, BDYD, BSGS, BSLX, GVDP, IGPX, KGPW, SGBB, XX-BDXO
+Train #12103 (Pune Lucknow Jn SuperFast Express) references missing station code(s): GOV, HRD
+Train #12104 (Lucknow Jn - Pune Express) references missing station code(s): GOV, HRD
+Train #12105 (Vidarbha Express) references missing station code(s): WRD
+Train #12106 (Vidarbha Express) references missing station code(s): WRD
+Train #12113 (Pune-Nagpur Garib Rath Express) references missing station code(s): WRD
+Train #12114 (Nagpur-Pune Garib Rath) references missing station code(s): WRD
+Train #12119 (Amaravati Nagpur Express) references missing station code(s): WRD
+Train #12120 (Nagpur Amravati Express) references missing station code(s): WRD
+Train #12135 (Pune -Nagpur SuperFast Express) references missing station code(s): WRD
+Train #12136 (Nagpur Pune Express) references missing station code(s): WRD
+Train #12137 (Punjab Mail) references missing station code(s): HRD
+Train #12138 (Punjab Mail) references missing station code(s): HRD
+Train #12139 (Sevagram Express) references missing station code(s): WRD
+Train #12139-Slip (Sewagram Express Slip) references missing station code(s): WRD
+Train #12140 (Sevagram Express) references missing station code(s): WRD
+Train #12143 (LTT Sultanpur Superfast Weekly Express) references missing station code(s): GOV, HRD
+Train #12144 (Sultanpur-LTT Weekly SF Express) references missing station code(s): GOV, HRD
+Train #12148 (Nizamuddin-Kolhapur Express) references missing station code(s): HRD
+Train #12161 (Lashkar Superfast Express) references missing station code(s): HRD
+Train #12162 (Lashkar Express) references missing station code(s): HRD
+Train #12129 (PUNE - HOWRAH Azad Hind SF Exp) references missing station code(s): AQX, BDYD, BSGS, BSLX, BSPC, DDYX, GVDP, SGBB
+Train #12130 (HOWRAH - PUNE Azad Hind SF Exp) references missing station code(s): AQX, BDX, BDYD, BSGS, BSLX, DDAC, GVDP, KGPW, SGBB, XX-BDXO, XX-CPHO, XX-JSGB
+Train #12133 (MUMBAI CST - MANGALORE Exp) references missing station code(s): XX-TNAB
+Train #12141 (MUMBAI LTT - PATLIPUTRA SF Exp) references missing station code(s): BSGS, BSLX, IGPX, MGSO, PAIL
+Train #12145 (MUMBAI LTT - PURI SF Exp) references missing station code(s): BDYD, BSGS, BSLX, BSPC, SGBB
+Train #12147 (Kolhapur-Nizamuddin Express) references missing station code(s): HRD
+Train #12149 (PUNE - PATLIPUTRA SF Exp) references missing station code(s): BSGS, BSLX, DDAC, MGSO, PAIL, YY-MMRX
+Train #12150 (PATLIPUTRA - PUNE SF Exp) references missing station code(s): BSGS, BSLX, DDAC, MGSO, PAIL
+Train #12153 (Lokmanya Tilak (T) Habibganj Express) references missing station code(s): HRD
+Train #12154 (Habibganj LTT Superfast Express) references missing station code(s): HRD
+Train #12159 (Amravati -Jabalpur Express) references missing station code(s): WRD
+Train #12160 (Jabalpur - Amravati Express) references missing station code(s): WRD
+Train #12166 (VARANASI - MUMBAI LTT Ratnagiri SF Exp) references missing station code(s): PFMA
+Train #12171 (Mumbai LTT -Haridwar AC Express) references missing station code(s): HRD
+Train #12172 (Haridwar-Mumbai LTT AC Express) references missing station code(s): HRD
+Train #12173 (Udyog Nagri Express) references missing station code(s): GOV, HRD
+Train #12174 (Udyog Nagri Express) references missing station code(s): GOV, HRD
+Train #12183 (Bhopal Partapgarh Express) references missing station code(s): GOV
+Train #12184 (Pratapgarh-Bhopal Express) references missing station code(s): GOV
+Train #12187 (Jabalpur-CST Garib Rath Express) references missing station code(s): HRD
+Train #12188 (Mumbai-Jabalpur Garib Rath Express) references missing station code(s): HRD
+Train #12194 (Partapgarh Bhopal SuperFast Express) references missing station code(s): GOV
+Train #12213 (Yeswantpur-Delhi Sarai Rohilla AC Duronto Express) references missing station code(s): NRPD, WRD
+Train #12214 (Delhi Sarai Rohilla-Yesvantpur AC Duronto Express) references missing station code(s): NRPD, WRD
+Train #12215 (Delhi Sarai Rohilla-Mumbai BandraT Garib Rath) references missing station code(s): TJNR
+Train #12216 (Mumbai Bandra T. - Delhi Sarai Rohilla Garib Rath) references missing station code(s): TJNR
+Train #12217 (KOCHUVELI - CHANDIGARH Kerala Sampark Kranti Exp) references missing station code(s): KTTY, OKAC
+Train #12218 (CHANDIGARH - KOCHUVELI Kerala Sampark Kranti Exp) references missing station code(s): KTTY, OKAC
+Train #12222 (HOWRAH - PUNE AC Duronto Exp) references missing station code(s): AQX, BDX, BDYD, BSGS, BSLX, DDAC, GVDP, KGPW, SGBB, XX-BDXO, XX-CPHO, XX-JSGB
+Train #12223 (MUM LTT - ERNAKULAM AC Duronto) references missing station code(s): XX-TNAB
+Train #12260 (New Delhi-Sealdah AC Duronto Express) references missing station code(s): SGBA
+Train #12235 (DIBRUGARH - NEW DELHI Rajdhani Exp) references missing station code(s): AMJ, RVT
+Train #12236 (NEW DELHI - DIBRUGARH Rajdhani Exp) references missing station code(s): AMJ, RVT
+Train #12245 (HOWRAH - YESVANTPUR AC Duronto Exp) references missing station code(s): RLJC
+Train #12253 (YESVANTPUR - BHAGALPUR Anga SF Exp) references missing station code(s): KANL, RLJC
+Train #12254 (BHAGALPUR - YESVANTPUR Anga SF Exp) references missing station code(s): KANL, RLJC
+Train #12261 (MUMBAI CST - HOWRAH AC Duronto Exp) references missing station code(s): AQX, BDX, BDYD, BSGS, BSLX, BSPC, GVDP, IGPX, KGPW, SGBB, XX-BDXO, XX-CPHO, XX-JSGB
+Train #12262 (HOWRAH - MUMBAI CST AC Duronto Exp) references missing station code(s): AQX, BDX, BDYD, BSGS, BSLX, GVDP, IGPX, KGPW, SGBB, XX-BDXO, XX-CPHO, XX-JSGB
+Train #12269 (Chennai-Hazrat Nizamuddin Duronto Express) references missing station code(s): WRD
+Train #12270 (Hazrat Nizamuddin-Chennai Duronto) references missing station code(s): WRD
+Train #12303 (Poorva Express) references missing station code(s): PTG
+Train #12313 (KOL SEALDAH - NEW DELHI Rajdhani Exp) references missing station code(s): ETYD, JUNC, KANL, LCAB
+Train #12314 (NEW DELHI - KOL SEALDAH Rajdhani Exp) references missing station code(s): ETYD, JUNC, KANL, LCAB
+Train #12316 (Ananya Express) references missing station code(s): PTG, SGBA
+Train #12318 (AKAL TAKHT Express) references missing station code(s): BELG, CCSJ, CLWS, CPPR, ETYD, JUNC, KANL, LCAB, MGSO, PAIL, ULR
+Train #12325 (KOLKATA CHITPUR - NANGAL DAM Gurumukhi Exp) references missing station code(s): CPPR, KANL, PAIL
+Train #12326 (NANGAL DAM - KOLKATA CHITPUR Gurumukhi Exp) references missing station code(s): CCSJ, CLWS, CPPR, ETYD, JUNC, KANL, LCAB, MGSO, PAIL, ULR
+Train #12327 (Upasana Express) references missing station code(s): PTG
+Train #12329 (West Bengal Sampark Kranti) references missing station code(s): SGBA
+Train #12330 (West Bengal Sampark Kranti Express) references missing station code(s): SGBA
+Train #12331 (Himgiri Express) references missing station code(s): PTG
+Train #12284 (DELHI H NIZAMUDDIN - ERNAKULAM Duronto Exp) references missing station code(s): KTTY, OKAC
+Train #12287 (Kochuveli-Dehradun Weekly Express) references missing station code(s): KALD, PKP
+Train #12289 (Mumbai CSTM-Nagpur Duronto Express) references missing station code(s): WRD
+Train #12290 (Nagpur-Mumbai CST Duronto Express) references missing station code(s): WRD
+Train #12295 (BANGALORE - PATLIPUTRA Sanghamitra SF Exp) references missing station code(s): AMLX, AQX, DKJC, MGSO, PAIL
+Train #12296 (PATLIPUTRA - BANGALORE Sanghamitra SF Exp) references missing station code(s): AMLX, AQX, DKJC, MGSO, PAIL
+Train #12304 (Poorva Express) references missing station code(s): PTG
+Train #12305 (Howrah-New Delhi Rajdhani Express) references missing station code(s): PTG
+Train #12306 (New Delhi-Howrah Rajdhani Express) references missing station code(s): PTG
+Train #12321 (HOWRAH - MUMBAI CST Mail (via Allahabad)) references missing station code(s): BLYC, IGPX, KANL, LLHW
+Train #12322 (MUMBAI CST - HOWRAH Mail (via Allahabad)) references missing station code(s): BLYC, IGPX, KANL, LLHW
+Train #12328 (Upasana Express) references missing station code(s): PTG
+Train #12332 (Himgiri Express) references missing station code(s): PTG
+Train #12333 (Vibhuti Express) references missing station code(s): PTG
+Train #12343-Slip (Darjeeling Mail Slip) references missing station code(s): SGBA
+Train #12344 (Darjeeling Mail) references missing station code(s): SGBA
+Train #12363 (KOLKATA CHITPUR - HALDIBARI SF Intercity Exp) references missing station code(s): IKC, KHMP, NFKN, NFKS, RPMY, ULR
+Train #12367 (Vikramshila Express) references missing station code(s): PTG
+Train #12377 (Padatik Express) references missing station code(s): SGBA
+Train #12378 (Padatik Express) references missing station code(s): SGBA
+Train #12379 (Sealdah - Amritsar Superfast Express) references missing station code(s): SGBA
+Train #19065 (MUMBAI BANDRA - BHAGAT KI KOTHI Exp) references missing station code(s): OSHI
+Train #12246 (YESVANTPUR - HOWRAH AC Duronto Exp) references missing station code(s): RLJC
+Train #12334 (Vibhuti Express) references missing station code(s): PTG
+Train #12345 (HOWRAH - GUWAHATI Saraighat SF Exp) references missing station code(s): BLYC, GBY, IKC, KHMP, LLHW, NFKN, NFKS, RPMY
+Train #12351 (Howrah- Danapur Express) references missing station code(s): PTG
+Train #12352 (Danapur- Howrah Express) references missing station code(s): PTG
+Train #12357 (KOLKATA CHITPUR - AMRITSAR Durgiana SF Exp) references missing station code(s): ETYD, JUNC, KANL, LCAB, ULR
+Train #12358 (AMRITSAR - KOLKATA CHITPUR Durgiana SF Exp) references missing station code(s): ETYD, JUNC, KANL, LCAB, ULR
+Train #12361 (ASANSOL - MUMBAI CST SF Exp) references missing station code(s): PAIL
+Train #12362 (MUMBAI CST - ASANSOL SF Exp) references missing station code(s): PAIL
+Train #12365 (Patna-Ranchi Jan Shatabdi Express) references missing station code(s): JONA
+Train #12366 (Ranchi Patna Jan Shatabdi Express) references missing station code(s): JONA
+Train #12369 (Kumbh Express) references missing station code(s): PTG
+Train #12370 (Kumbh Express) references missing station code(s): PTG
+Train #12391 (Shramjeevi Express) references missing station code(s): PTG
+Train #12392 (Shramjeevi Express) references missing station code(s): PTG
+Train #12408 (AMRITSAR - NEW JALPAIGURI Karmabhoomi Exp) references missing station code(s): DSKG, IKC, KHMP
+Train #12413 (Pooja express) references missing station code(s): TJNR
+Train #12414 (Pooja Express) references missing station code(s): TJNR
+Train #12423 (DIBRUGARH TOWN - NEW DELHI Rajdhani Exp) references missing station code(s): BJUP, CPPR, GBY, IKC, KHMP, MGSO, PAIL, TSKG
+Train #12431 (TRIVANDRUM - DELHI H NIZAMUDDIN Rajdhani Exp) references missing station code(s): KTTY, OKAC
+Train #12432 (DELHI H NIZAMUDDIN - TRIVANDRUM Rajdhani Exp) references missing station code(s): KTTY, OKAC
+Train #12437 (Secunderabad Rajdhani Express) references missing station code(s): WRD
+Train #12438 (Secunderabad Rajdhani Express) references missing station code(s): WRD
+Train #12401 (Magadh Express) references missing station code(s): PTG
+Train #12402 (Magadh Express) references missing station code(s): PTG
+Train #12405 (Gondwana Express) references missing station code(s): WRD
+Train #12406 (H.Nizamuddin-Bhusaval Gondwana Express) references missing station code(s): WRD
+Train #12424 (NEW DELHI - DIBRUGARH TOWN Rajdhani Exp) references missing station code(s): BJUP, CPPR, GBY, IKC, KHMP, MGSO, PAIL, TSKG
+Train #12429 (Bangalore - Hazrat Nizamuddin Rajdhani Express) references missing station code(s): NRPD, WRD
+Train #12430 (Delhi H Nizamuddin-Bangalore Rajdhani Express) references missing station code(s): NRPD, WRD
+Train #12433 (Chennai Central-Delhi H.Nizamuddin Rajdhani Expres) references missing station code(s): WRD
+Train #12435 (DIBRUGARH TOWN - NEW DELHI Rajdhani Exp) references missing station code(s): BJUP
+Train #12436 (NEW DELHI - DIBRUGARH TOWN Rajdhani Exp) references missing station code(s): BJUP
+Train #12457 (Delhi SaraiRohilla-Bikaner Express) references missing station code(s): TJNR
+Train #12458 (Bikaner-DelhiSaraiRohiilla Express) references missing station code(s): TJNR
+Train #12475 (Hapa - Jammu Tawi Sarvodaya SF Express) references missing station code(s): CDLD
+Train #12476 (Jammu Tawi - Hapa Sarvodaya SF Express) references missing station code(s): CDLD
+Train #12477 (Jamnagar - Jammu Tawi SF Sindhu Express) references missing station code(s): CDLD
+Train #12479 (JODHPUR - MUMBAI BANDRA Suryanagari SF Exp) references missing station code(s): OSHI
+Train #12480 (MUMBAI BANDRA - JODHPUR Suryanagari SF Exp) references missing station code(s): OSHI
+Train #12485 (H S NANDED - SHRI GANGANAGAR Exp) references missing station code(s): LNMA
+Train #12486 (SHRI GANGANAGAR - H S NANDED Exp) references missing station code(s): LNMA
+Train #12496 (KOLKATA CHITPUR - BIKANER Pratap Exp) references missing station code(s): KANL
+Train #16359 (ERNAKULAM - PATNA Exp) references missing station code(s): PAIL
+Train #12449 (MADGAON - CHANDIGARH Goa Sampark Kranti Exp) references missing station code(s): KTTY, OKAC
+Train #12450 (CHANDIGARH - MADGAON Goa Sampark Kranti Exp) references missing station code(s): KTTY, OKAC
+Train #12453 (Ranchi-New Delhi Rajdhani Express) references missing station code(s): JONA
+Train #12454 (New Delhi-Ranchi Rajdhani Express) references missing station code(s): JONA
+Train #12461 (Mandore Express) references missing station code(s): TJNR
+Train #12462 (Mandore Express) references missing station code(s): TJNR
+Train #12464 (Rajasthan Sampark Kranti Express) references missing station code(s): TJNR
+Train #12478 (Jammu Tawi - Jamnagar (Weekly) Sindhu SF Express) references missing station code(s): CDLD
+Train #12493 (Bangalore-Hazrat Nizammudin Rajdhani Express) references missing station code(s): WRD
+Train #12494 (Hazrat Nizamuddin-Bangalore Rajdhani Express) references missing station code(s): WRD
+Train #12501 (GUWAHATI - NEW DELHI Poorvottar Sampark Kranti Exp) references missing station code(s): BJUP, CPPR, GBY, IKC, KHMP, MGSO, PAIL, YY-BJUC
+Train #12502 (NEW DELHI - GUWAHATI Poorvottar Sampark Kranti Exp) references missing station code(s): BJUP, CPPR, DBLG, GBY, IKC, JGLP, KHMP, MGSO, NHGJ, NHLG, PAIL, YY-BJUC
+Train #12507 (TRIVANDRUM - GUWAHATI SF Exp) references missing station code(s): GBY, IKC, KHMP, RLJC
+Train #12508 (GUWAHATI - TRIVANDRUM SF Exp) references missing station code(s): GBY, IKC, KHMP, RLJC
+Train #12511 (Rapti Sagar Express) references missing station code(s): GOV, THZI, WRD
+Train #12512 (Rapti Sagar Expres) references missing station code(s): GOV, THZI, WRD
+Train #12514 (GUWAHATI - SECUNDERABAD Exp) references missing station code(s): BLYC, BWND, GBY, IKC, KHMP, NFKN, NFKS, RLJC, RPMY
+Train #12519 (MUMBAI LTT - KAMAKHYA AC Exp) references missing station code(s): BJUP, CPPR, GBY, IGPX, IKC, KHMP, PAIL
+Train #12520 (KAMAKHYA - MUMBAI LTT AC Exp) references missing station code(s): BJUP, CPPR, GBY, IGPX, IKC, KHMP, PAIL
+Train #12522 (Raptisagar Express) references missing station code(s): GOV, WRD
+Train #12535 (Lucknow-Raipur Garib Rath Express) references missing station code(s): GOV
+Train #12536 (Raipur-Lucknow Garib Rath) references missing station code(s): GOV
+Train #12540 (LUCKNOW - YESVANTPUR SF Exp) references missing station code(s): AMLX, AQX, YY-DKJC
+Train #12541 (Gorakhpur-Mumbai LTT SF Express) references missing station code(s): GOV, HRD
+Train #12505 (GUWAHATI - DELHI ANAND VIHAR North East Exp) references missing station code(s): BJUP, PAIL
+Train #12506 (DELHI ANAND VIHAR - GUWAHATI North East Exp) references missing station code(s): BJUP, PAIL
+Train #12509 (BENGALURU - GUWAHATI (Kaziranga) SF Express) references missing station code(s): BLYC, GBY, IKC, KGPW, KHMP, LLHW, NFKN, NFKS, RLJC, RPMY
+Train #12510 (GUWAHATI - BENGALURU (Kaziranga) SF Express) references missing station code(s): RLJC
+Train #12515 (RIVANDRUM - GUWAHATI Exp) references missing station code(s): RLJC
+Train #12516 (GUWAHATI - TRIVANDRUM CENTRAL EXP) references missing station code(s): RLJC
+Train #12517 (KOLKATA - GUWAHATI Garib Rath Exp) references missing station code(s): GBY, IKC, IPRA, KHMP, ULR
+Train #12518 (GUWAHATI - KOLKATA Garib Rath Exp) references missing station code(s): GBY, IKC, IPRA, KHMP, ULR
+Train #12521 (Raptisagar Express) references missing station code(s): GOV, WRD
+Train #12533 (Pushpak Express) references missing station code(s): GOV, HRD
+Train #12534 (Pushpak Express) references missing station code(s): GOV, HRD
+Train #12545 (RAXAUL - MUMBAI LTT Karmabhoomi Exp) references missing station code(s): CPPR, PAIL
+Train #12569 (Jaynagar-Delhi AnandViharT Garib Rath) references missing station code(s): PTG
+Train #12570 (Anand Vihar Terminus-Jaynagar Garib Rath Express) references missing station code(s): PTG
+Train #12571 (Howrah Prasanti Nilayam SF Express) references missing station code(s): VEP
+Train #12572 (Prashanti Nilayam Howrah SF Express) references missing station code(s): VEP
+Train #12573 (SainagarShirdi-Howrah Express) references missing station code(s): WRD
+Train #12577 (DARBHANGA - MYSORE BAGMATI SF Exp) references missing station code(s): AMLX, AQX, CNP, CPPR, KNDV, MGSO, PAIL, PHVP, YY-BJUC, YY-DKJC
+Train #12578 (MYSORE - DARBHANGA BAGMATI SF Exp) references missing station code(s): KNDV, PAIL
+Train #12579 (Digha- Puri SamudraKanya Express) references missing station code(s): GPLG
+Train #12592 (YESVANTPUR - GORAKHPUR SF Exp) references missing station code(s): AMLX, AQX, WDC
+Train #12593 (Lucknow-Bhopal Garib Rath) references missing station code(s): GOV
+Train #12594 (Bhopal-Lucknow Garib Rath Express) references missing station code(s): GOV
+Train #12562 (Swatantrata Sainani Express) references missing station code(s): RVT
+Train #12563 (Mumbai LTT - Faizabad SF Express) references missing station code(s): HRD
+Train #12564 (Faizabad-Mumbai LTT SF Express) references missing station code(s): HRD
+Train #12589 (Gorakhpur-Secunderabad Express) references missing station code(s): GOV, WRD
+Train #12590 (Secunderabad - Gorakhpur Express) references missing station code(s): GOV, WRD
+Train #12601 (Chennai Mangalore Mail) references missing station code(s): KALD, PKP
+Train #12602 (Chennai Mail) references missing station code(s): KALD, PKP
+Train #12611 (Chennai Central-H.Nizamuddin Garib Rath Express) references missing station code(s): WRD
+Train #12612 (H Nizamuddin-Chennai Garib Rath Express) references missing station code(s): WRD
+Train #12613 (Tippu Express) references missing station code(s): NZH
+Train #12614 (Tippu Express) references missing station code(s): NZH
+Train #12616 (GrandTrunk Express) references missing station code(s): WRD
+Train #12622 (Tamil Nadu Express) references missing station code(s): WRD
+Train #12625 (Kerala Express) references missing station code(s): WRD
+Train #12626 (Kerala Express) references missing station code(s): WRD
+Train #12628 (Karnataka Express) references missing station code(s): HRD, NRPD
+Train #12629 (Karnataka Sampark Kranti Express) references missing station code(s): HRD
+Train #12630 (Karnataka Sampark Kranti Express) references missing station code(s): HRD
+Train #12643 (Swarna Jayanthi Express) references missing station code(s): THZI, WRD
+Train #12644 (Swarna Jayanti Express) references missing station code(s): THZI, WRD
+Train #12649 (Karnataka Sampark Kranti Express) references missing station code(s): WRD
+Train #12650 (Karnataka Sampark Kranti Express) references missing station code(s): WRD
+Train #12654 (Mangalore Tiruchirappalli Weekly Superfast Express) references missing station code(s): KALD, PKP
+Train #12617 (ERNAKULAM - NEW DELHI H NIZAMUDDIN Mangala Lakshadweep Exp) references missing station code(s): BSGS, BSLX, OKAC
+Train #12618 (NEW DELHI H NIZAMUDDIN - ERNAKULAM Mangala Lakshadweep Exp) references missing station code(s): IGPX, OKAC
+Train #12621 (Tamil Nadu Express) references missing station code(s): WRD
+Train #12627 (Karnataka Express) references missing station code(s): HRD, NRPD
+Train #12645 (Millennium Expres) references missing station code(s): WRD
+Train #12646 (Millennium Express) references missing station code(s): WRD
+Train #12647 (Kongu Express) references missing station code(s): WRD
+Train #12648 (Kongu Express) references missing station code(s): WRD
+Train #12707 (Andhra Pradesh Sampark Kranti Express) references missing station code(s): WRD
+Train #12708 (Andhra Pradesh Sampark Kranti Express) references missing station code(s): WRD
+Train #12715 (Sachkhand SF Express) references missing station code(s): HRD
+Train #12666 (KANYAKUMARI - KOL HOWRAH Weekly Exp) references missing station code(s): RLJC
+Train #12669 (CHENNAI CENTRAL - CHHAPRA Ganga Kaveri Exp) references missing station code(s): AMLX, AQX, PFMA
+Train #12670 (CHHAPRA - CHENNAI CENTRAL Ganga Kaveri Exp) references missing station code(s): AMLX, AQX, PFMA
+Train #12685 (Chennai - Mangalore Express) references missing station code(s): KALD, PKP
+Train #12686 (Mangalore - Chennai Express) references missing station code(s): KALD, PKP
+Train #12687 (Chennai Dehradun Express) references missing station code(s): WRD
+Train #12688 (Dehradun Chennai Express) references missing station code(s): WRD
+Train #12716 (Sachkhand SF Express) references missing station code(s): HRD
+Train #12719 (AJMER - HYDERABAD DECCAN SF Exp) references missing station code(s): CIKA, XX-BECE, YY-BPLC
+Train #12720 (HYDERABAD DECCAN - AJMER SF Exp) references missing station code(s): CIKA
+Train #12731 (Tirupati-Secunderabad Express) references missing station code(s): NRPD
+Train #12732 (Secunderabad-Tirupati Express) references missing station code(s): NRPD
+Train #12741 (VASCO DA GAMA - PATNA SF Exp) references missing station code(s): BSGS, BSLX, IGPX, MGSO, PAIL
+Train #12742 (PATNA - VASCO DA GAMA SF Exp) references missing station code(s): IGPX, PAIL
+Train #12777 (HUBLI - TRIVANDRUM KOCHUVELI SF Exp) references missing station code(s): SREE
+Train #12721 (Dakshin SF Express) references missing station code(s): WRD
+Train #12722 (Dakshin SF Express) references missing station code(s): WRD
+Train #12723 (Andhra Pradesh Express) references missing station code(s): WRD
+Train #12724 (Andhra Pradesh Express) references missing station code(s): WRD
+Train #12791 (SECUNDERABAD - DANAPUR SF EXP) references missing station code(s): PAIL
+Train #12792 (DANAPUR - SECUNDERABAD SF EXP) references missing station code(s): PAIL
+Train #12812 (HATIA - MUMBAI LTT SF Exp) references missing station code(s): BDYD, BSGS, BSLX, BSPC, SGBB
+Train #12817 (Jharkhand Swarna Jayanti SF Express) references missing station code(s): JONA
+Train #12818 (Jharkhand Swarna Jayanti Express) references missing station code(s): JONA
+Train #12833 (AHMEDABAD - HOWRAH SF EXP) references missing station code(s): AQX, BDX, BDYD, BSGS, BSLX, BSPC, GVDP, KGPW, SGBB, XX-BDXO, XX-CPHO, XX-JSGB
+Train #12834 (HOWRAH - AHMEDABAD SF EXP) references missing station code(s): GVDP
+Train #12780-Slip (H.Nizamuddin Hubli Goa Express Slip) references missing station code(s): HRD
+Train #12781 (Mysore-Nizamuddin Swarna Jayanti Express) references missing station code(s): HRD
+Train #12787 (Bilaspur Tirunelveli SF Express) references missing station code(s): THZI, WRD
+Train #12788 (Tirunelveli Bilaspur SF Express) references missing station code(s): THZI, WRD
+Train #12804 (Swarna Jayanti Express) references missing station code(s): WRD
+Train #12825 (Jharkhand Sampark Kranti Express) references missing station code(s): JONA
+Train #12872 (TITLAGARH - HOWRAH Ispat Exp) references missing station code(s): GVDP
+Train #12873 (Jharkhand Swarna Jayanti Express) references missing station code(s): JONA
+Train #12874 (Jharkhand Swarna Jayanti Express) references missing station code(s): JONA
+Train #12875 (PURI - NEW DELHI Neelanchal SF Exp) references missing station code(s): GVDP, LKOY, RLJC
+Train #12876 (NEW DELHI - PURI Neelanchal SF Exp) references missing station code(s): GVDP, LKOY, RLJC
+Train #12877 (Ranchi-New Delhi Garib Rath) references missing station code(s): JONA
+Train #12843 (Puri Ahmedabad Superfast Express) references missing station code(s): WRD
+Train #12844 (Ahmedabad Puri Superfast Express) references missing station code(s): WRD
+Train #12906-Slip (Howrah-Porbandar SF Express Slip) references missing station code(s): CDLD, WRD
+Train #12937 (GANDHIDHAM - HOWRAH Garbha Exp) references missing station code(s): GNSYM, INDRG
+Train #12938 (HOWRAH - GANDHIDHAM Garbha Exp) references missing station code(s): GNSYM, INDRG
+Train #12916 (Ashram SF Express) references missing station code(s): TJNR
+Train #12943 (Valsad-Kanpur Udyogkarmi Express) references missing station code(s): GOV, HRD
+Train #12944 (Kanpur-Valsad Udyogkarmi Express) references missing station code(s): GOV, HRD
+Train #12959 (MUMBAI DADAR - BHUJ SF Exp) references missing station code(s): OSHI
+Train #12960 (BHUJ - MUMBAI DADAR SF Exp) references missing station code(s): OSHI
+Train #12967 (Chennai-Jaipur SF Express) references missing station code(s): WRD
+Train #12968 (Jaipur-Chennai SF Express) references missing station code(s): WRD
+Train #12969 (Coimbatore-Jaipur Express) references missing station code(s): WRD
+Train #12970 (Jaipur-Coimbatore Express) references missing station code(s): WRD
+Train #12971 (Bhavnagar Express) references missing station code(s): CDLD
+Train #12975 (Mysore-Jaipur SF Express) references missing station code(s): NZH, WRD
+Train #12976 (Jaipur-Mysore SF Express) references missing station code(s): NZH, WRD
+Train #12978 (AJMER - ERNAKULAM Marusagar Exp) references missing station code(s): KTTY
+Train #12981 (Chetak Express) references missing station code(s): TJNR
+Train #12982 (Chetak Express) references missing station code(s): TJNR
+Train #12988 (Ajmer Sealdah Express) references missing station code(s): SGBA
+Train #12957 (Ahmadabad-New Delhi Swarna Jayanti Rajdhani Expres) references missing station code(s): TJNR
+Train #12958 (New Delhi-Ahmedabad Swarna Jayanti Rajdhani Expres) references missing station code(s): TJNR
+Train #12997 (Tirunelveli - Hapa (Biweekly) SF Express) references missing station code(s): CDLD, KALD, PKP, THZI
+Train #12998 (Hapa-Tirunelveli Express) references missing station code(s): CDLD, KALD, PKP, THZI
+Train #13005 (Howrah-Amritsar Mail) references missing station code(s): PTG
+Train #13007 (Udyan Abha Toofan Express) references missing station code(s): PTG
+Train #13040 (Janata Express) references missing station code(s): PTG
+Train #13049 (Howrah-Amritsar Express) references missing station code(s): PTG
+Train #13050 (Amritsar Howrah Express) references missing station code(s): PTG
+Train #13104 (Bhagirathi Express) references missing station code(s): SGBA
+Train #13105 (Sealdah-Ballia Express) references missing station code(s): RVT, SGBA
+Train #13106 (Ballia-Sealdah Express) references missing station code(s): RVT, SGBA
+Train #13107 (Maitree Express BR) references missing station code(s): DSNB
+Train #13108 (Maitree Express BR) references missing station code(s): DSNB
+Train #13109 (Maitree Express IR) references missing station code(s): DSNB
+Train #13110 (Maitree Express) references missing station code(s): DSNB
+Train #13111 (Lal Quila Express) references missing station code(s): PTG
+Train #13008 (Udyan Abha Toofan Express) references missing station code(s): PTG
+Train #13112 (Lal Quila Express) references missing station code(s): PTG
+Train #13133 (Sealdah-Varanasi Express) references missing station code(s): PTG, SGBA
+Train #13134 (Varanasi- Sealdah Express) references missing station code(s): PTG, SGBA
+Train #13141 (Testa Torsa Express) references missing station code(s): ER08, SGBA
+Train #13141-Slip (Testa Torsa Express Slip) references missing station code(s): ER08, SGBA
+Train #13142 (Teesta Torsa Express) references missing station code(s): ER08, SGBA
+Train #13145 (Radhikapur Express) references missing station code(s): ER08
+Train #13146 (Radhikapur Express) references missing station code(s): ER08
+Train #13147 (Uttar Banga Express) references missing station code(s): SGBA
+Train #13148 (Uttar Banga Express) references missing station code(s): SGBA
+Train #13149 (Kanchan Kanya Express) references missing station code(s): SGBA
+Train #13150 (Kanchan Kanya Express) references missing station code(s): SGBA
+Train #13153-Slip (Gour Express Slip) references missing station code(s): SGBA
+Train #13154 (Malda Town-Sealdah Gour Express) references missing station code(s): SGBA
+Train #13159 (KOLKATA CHITPUR - JOGBANI Exp) references missing station code(s): ULR
+Train #13160 (JOGBANI - KOLKATA CHITPUR Exp) references missing station code(s): ULR
+Train #13163 (Hatey Bazare Express) references missing station code(s): ER08, SGBA
+Train #13164 (Hatey Bazare Express) references missing station code(s): ER08, SGBA
+Train #13185 (Ganga Sagar Express) references missing station code(s): SGBA
+Train #13186 (Ganga Sagar Express) references missing station code(s): SGBA
+Train #13188 (Rampurhat- Sealdah Express) references missing station code(s): SGBA
+Train #13202 (MUMBAI LTT - RAJENDRA NAGAR PATNA Janta Exp) references missing station code(s): PAIL
+Train #13225 (Jaynagar-Danapur Intercity) references missing station code(s): PTG
+Train #13226 (Danapur-Jaynagar Intercity) references missing station code(s): PTG
+Train #13233 (Rajgriha Express) references missing station code(s): PTG
+Train #13234 (Rajgriha Express) references missing station code(s): PTG
+Train #13241 (Banka Patna Express) references missing station code(s): PTG
+Train #13242 (Patna Banka Express) references missing station code(s): PTG
+Train #13248 (RAJENDRA NAGAR - GUWAHATI Capital Exp) references missing station code(s): BJUP, CPMR, CPPR, GBY, IKC, KHMP, PNS
+Train #19321 (Indore-Rajendranagar Express) references missing station code(s): GOV
+Train #13235 (Sahibganj-Danapur InterCity) references missing station code(s): PTG
+Train #13236 (Danapur-Sahibganj InterCity) references missing station code(s): PTG
+Train #13246 (Capital Express) references missing station code(s): PTG
+Train #13247 (GUWAHATI - RAJENDRA NAGAR Capital Exp) references missing station code(s): BJUP, CPMR, CPPR, GBY, IKC, KHMP, PNS
+Train #13251 (Islampur Rajendra Nagar Express) references missing station code(s): PTG
+Train #13252 (Rajendra Nagar Islampur Express) references missing station code(s): PTG
+Train #13287 (DURG - RAJENDRA NAGAR South Bihar Exp) references missing station code(s): BDYD, BSPC, CLWS, CPPR, SGBB
+Train #13288 (RAJENDRA NAGAR BIHAR - DURG South Bihar Exp) references missing station code(s): BDYD, BSPC, CLWS, CPPR, SGBB
+Train #13304 (Dhanbad InterCity Express) references missing station code(s): JONA
+Train #13319 (Baidyanthdham-Ranchi Express) references missing station code(s): JONA
+Train #13320 (Ranchi-Baidyanathdham Express) references missing station code(s): JONA
+Train #13331 (Dhanbad Patna Express) references missing station code(s): PTG
+Train #13332 (Patna Dhanbad Express) references missing station code(s): PTG
+Train #13404 (Vananchal Express) references missing station code(s): JONA
+Train #13413 (Farakka Express) references missing station code(s): PTG
+Train #13414 (Farakka Express) references missing station code(s): PTG
+Train #13415 (Malda Patna Express) references missing station code(s): PTG
+Train #13416 (Patna-Malda Express) references missing station code(s): PTG
+Train #13465 (InterCity Express) references missing station code(s): ER08
+Train #13466 (InterCity Express) references missing station code(s): ER08
+Train #13483 (Farakka Express) references missing station code(s): PTG
+Train #13484 (Farakka Express) references missing station code(s): PTG
+Train #12259 (Sealdah-New Delhi AC Duronto Express) references missing station code(s): SGBA
+Train #13504 (Asansol-Sealdah InterCity Express) references missing station code(s): SGBA
+Train #13506 (Asansol Digha Express) references missing station code(s): GPLG
+Train #13509 (Asansol-Gonda Express) references missing station code(s): RVT
+Train #13510 (Gonda-Asansol Express) references missing station code(s): RVT
+Train #14004 (New Delhi-New Farakka Express) references missing station code(s): PTG
+Train #14005 (Lichhavi Express) references missing station code(s): XBAC
+Train #14006 (Lichhavi Express) references missing station code(s): XBAC
+Train #14007 (Muzaffarpur-Old Delhi Sadbhavna Express) references missing station code(s): RVT
+Train #14008 (Old Delhi-Muzaffarpur Sadbhavana Express) references missing station code(s): RVT
+Train #14015 (Sadbhavna Express) references missing station code(s): RVT
+Train #14016 (Sadbhavana Express) references missing station code(s): RVT
+Train #14017 (Sadbhavna Express) references missing station code(s): RVT
+Train #14018 (Sadbhavana Expres) references missing station code(s): RVT
+Train #14056 (OLD DELHI - DIBRUGARH Brahmaputra Exp) references missing station code(s): CPPR, GBY, IKC, JMSY, KHMP, MGSO, NFKN, NFKS, PAIL, TSKG
+Train #14083 (Sikkim Mahananda Express) references missing station code(s): PTG
+Train #14084 (Sikkim Mahananda Express) references missing station code(s): PTG
+Train #14109 (Chitrakoot Kanpur Express) references missing station code(s): GOV
+Train #14110 (Kanpur Chitrakoot Express) references missing station code(s): GOV
+Train #12343 (Darjeeling Mail) references missing station code(s): SGBA
+Train #14259 (MUGHAL SARAI - LUCKNOW Ekatmata Exp) references missing station code(s): XX-BSBC
+Train #19131 (MUMBAI BANDRA - BHUJ Kutch Exp) references missing station code(s): GNSYM, INDRG, OSHI
+Train #14524 (Harihar Express) references missing station code(s): RVT
+Train #14603 (SAHARSA - AMRITSAR Jan Sadharan Exp) references missing station code(s): DSKG
+Train #14650 (Saryu Yamuna Express) references missing station code(s): RVT
+Train #14659-Slip (Delhi-Jaisalmer Express Slip) references missing station code(s): TJNR
+Train #14660 (Jaisalmer Delhi Express) references missing station code(s): TJNR
+Train #14662 (Barmer-Delhi MALANI Express) references missing station code(s): TJNR
+Train #14705 (Delhi Sarai Rohilla Sadulpur Express) references missing station code(s): TJNR
+Train #14706 (Sadulpur Delhi Sarai Rohilla Express) references missing station code(s): TJNR
+Train #13103 (Bhagirathi Express) references missing station code(s): SGBA
+Train #13245 (Capital Express) references missing station code(s): PTG
+Train #14708 (MUMBAI BANDRA - BIKANER Ranakpur Exp) references missing station code(s): OSHI
+Train #15009 (Chitrakoot Express) references missing station code(s): GOV
+Train #15010 (Chitrakoot Express) references missing station code(s): GOV
+Train #15018-Slip (Gorakhpur -Kolhapur Slip) references missing station code(s): HRD
+Train #15023 (GORAKHPUR - YESVANTPUR Exp) references missing station code(s): VAH
+Train #41057 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41501 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #14649 (Saryu Yamuna Express) references missing station code(s): RVT
+Train #15027 (Maurya Express) references missing station code(s): JONA
+Train #15028 (Maurya Express) references missing station code(s): JONA
+Train #15045 (Gorakhpur-Okha Express) references missing station code(s): CDLD
+Train #15046 (Okha-Gorakhpur Express) references missing station code(s): CDLD
+Train #15049 (Poorvanchal Express) references missing station code(s): RVT
+Train #15050 (Poorvanchal Express) references missing station code(s): RVT
+Train #15101 (Chhapra-Mumbai Jansadharan Express) references missing station code(s): GOV, HRD
+Train #15102 (Mumbai CST Chhapra Jansadharan Express) references missing station code(s): GOV, HRD
+Train #15109 (Budhpurnima Express) references missing station code(s): PTG
+Train #15110 (Budhpurnima Express) references missing station code(s): PTG
+Train #15159 (Sarnath Express) references missing station code(s): RVT
+Train #15160 (Sarnath Express) references missing station code(s): RVT
+Train #15209 (SAHARSA - AMRITSAR Jan Seva Exp) references missing station code(s): BJUP
+Train #15210 (AMRITSAR - SAHARSA Jan Seva Exp) references missing station code(s): BJUP
+Train #15228 (MUZAFFARPUR - YESVANTPUR Weekly Exp) references missing station code(s): BJUP, BLYC, BWND, NFKN, NFKS, RLJC, RPMY
+Train #15902 (DIBRUGARH - BENGALURU CITY Weekly Exp) references missing station code(s): CPMR, PNS, RLJC
+Train #15281 (Kosi Express) references missing station code(s): PTG
+Train #15282 (Kosi Express) references missing station code(s): PTG
+Train #15307 (Nainital Express) references missing station code(s): LKKA
+Train #15308 (Nainital Express) references missing station code(s): LKKA
+Train #15309 (Rohilkhand Express) references missing station code(s): MQW
+Train #15310 (Rohilkhand Express) references missing station code(s): MQW
+Train #15311 (KUMAON EXPRESS) references missing station code(s): LKKA, MQW
+Train #15312 (Kumaun Express) references missing station code(s): LKKA, MQW
+Train #15315 (Gonda-Kasganj Gokul Express) references missing station code(s): MQW
+Train #15316 (Kasganj-Gonda Gokul Express) references missing station code(s): MQW
+Train #15609 (Awadh Assam Express) references missing station code(s): AMJ
+Train #15609-Slip (Jivachh Link Express) references missing station code(s): AMJ
+Train #15610 (Awadh Assam Express) references missing station code(s): AMJ
+Train #15611 (Lokmanya Tilak (T)-Kamakhya Karmabhoomi Express) references missing station code(s): AMJ, WRD
+Train #15612 (Kamakhya-Mumbai LTT Karmabhoomi Express) references missing station code(s): AMJ, WRD
+Train #15620 (KAMAKHYA - GAYA Weekly Exp) references missing station code(s): GBY, IKC, KHMP
+Train #15629 (CHENNAI EGMORE - GUWAHATI Exp) references missing station code(s): GBY, GVDP, IKC, KHMP, RLJC
+Train #15630 (GUWAHATI - CHENNAI EGMORE Exp) references missing station code(s): GBY, GVDP, IKC, KHMP, RLJC
+Train #15631 (BARMER - GUWAHATI Exp) references missing station code(s): BJUP, PAIL
+Train #15632 (GUWAHATI - BARMER Exp) references missing station code(s): BJUP, PAIL
+Train #15635 (OKHA - GUWAHATI EXP) references missing station code(s): BJUP, PAIL
+Train #15636 (GUWAHATI - OKHA DWARKA EXP) references missing station code(s): BJUP, PAIL
+Train #15639 (PURI - GUWAHATI Exp) references missing station code(s): GBY, IKC, KHMP, RLJC
+Train #15643 (PURI - KAMAKHYA Weekly Express) references missing station code(s): CPMR, GBY, IKC, IPRA, KHMP, NFKN, NFKS, PNS, RLJC
+Train #15644 (KAMAKHYA - PURI Weekly Spl) references missing station code(s): CPMR, PNS
+Train #15691 (Cachar Express) references missing station code(s): BF, HFG, HJO, LFG
+Train #15714 (InterCity Express) references missing station code(s): PTG
+Train #15743 (InterCity Express) references missing station code(s): AMJ
+Train #15771 (AlipurDuar-Kamakhya Intercity Express) references missing station code(s): AMJ
+Train #15772 (Kamakhya-AlipurDuar Intercity Express) references missing station code(s): AMJ
+Train #15645 (MUMBAI LTT - GUWAHATI Exp) references missing station code(s): BJUP, PAIL
+Train #15646 (GUWAHATI - MUMBAI LTT Exp) references missing station code(s): BJUP, PAIL
+Train #15647 (MUMBAI LTT - GUWAHATI Exp) references missing station code(s): CPPR, GBY, IKC, JMSY, KHMP, NFKN, PAIL
+Train #15648 (GUWAHATI - MUMBAI LTT Exp) references missing station code(s): BSGS, BSLX, CPPR, GBY, IGPX, IKC, JMSY, KHMP, MGSO, NFKN, NFKS, PAIL, PCLS
+Train #15652 (JAMMU TAWI - GUWAHATI Lohit Exp) references missing station code(s): BJUP, GBY, IKC, KHMP
+Train #15654 (JAMMU TAWI - GUWAHATI Amarnath Exp) references missing station code(s): BJUP
+Train #15658 (GUWAHATI - KOLKATA SEALDAH KanchanJungha Exp) references missing station code(s): BWND, GBY, IKC, KHMP, NFKN, NFKS, RPMY
+Train #15661 (RANCHI - KAMAKHYA Exp) references missing station code(s): CPMR, PNS
+Train #15662 (KAMAKHYA - RANCHI Exp) references missing station code(s): CPMR, PNS
+Train #15667 (GANDHIDHAM - KAMAKHYA Exp) references missing station code(s): BJUP, INDRG, PAIL
+Train #15668 (KAMAKHYA - GANDHIDHAM Exp) references missing station code(s): BJUP, INDRG, PAIL
+Train #15692 (Cachar Express) references missing station code(s): BF, HFG, HJO, LFG
+Train #15693 (Barak Valley Express) references missing station code(s): BF, HFG, HJO, LFG, MGX
+Train #15694 (Barak Valley Express) references missing station code(s): BF, HFG, HJO, LFG, MGX
+Train #15695 (Lumding Agartala Express) references missing station code(s): BF, HFG, HJO, LFG
+Train #15696 (Agartala Lumding Express) references missing station code(s): BF, HFG, HJO, LFG
+Train #15713 (InterCity Express) references missing station code(s): PTG
+Train #15715 (Garib Nawaz Express) references missing station code(s): RVT
+Train #15716 (Garib Nawaz Express Slip) references missing station code(s): RVT
+Train #15716-Slip (Garib Nawaz Express) references missing station code(s): RVT, TJNR
+Train #15721 (Paharia Express) references missing station code(s): ER08, GPLG
+Train #15722 (Paharia Express) references missing station code(s): ER08, GPLG
+Train #15769 (Alipurduar Lumding Express) references missing station code(s): AMJ
+Train #15770 (Lumding Alipurduar Express) references missing station code(s): AMJ
+Train #15903 (Dibrugarh-Chandigarh Weekly Express) references missing station code(s): BJUP
+Train #15904 (Chandigarh-Dibrugarh Weekly Express) references missing station code(s): BJUP
+Train #16093 (Chennai Lucknow Express) references missing station code(s): GOV, WRD
+Train #16094 (Lucknow Chennai Express) references missing station code(s): GOV, WRD
+Train #15640 (GUWAHATI - PURI Exp) references missing station code(s): GBY, IKC, KHMP, RLJC
+Train #15905 (KANNIYAKUMARI - DIBRUGARH Vivek Exp) references missing station code(s): CPMR, ETYD, GBY, IKC, JUNC, KHMP, LCAB, NFKN, NFKS, PNS, RLJC, RPMY, TSKG
+Train #15906 (DIBRUGARH - KANNIYAKUMARI Vivek Exp) references missing station code(s): CPMR, ETYD, GBY, IKC, JUNC, KHMP, LCAB, NFKN, NFKS, PNS, RLJC, RPMY, TSKG
+Train #15929 (CHENNAI EGMORE - DIBRUGARH Weekly Exp) references missing station code(s): GBY, GVDP, IKC, KHMP, NFKN, NFKS, RLJC, RPMY, TSKG
+Train #15930 (DIBRUGARH - CHENNAI EGMORE Weekly Exp) references missing station code(s): GVDP
+Train #15933 (Dibrugarh-Amritsar Weekly Express) references missing station code(s): BJUP
+Train #15934 (Amritsar-DibrugarhTown Weekly Express) references missing station code(s): BJUP
+Train #15960 (DIBRUGARH - HOWRAH Kamrup Exp) references missing station code(s): GBY, IKC, IPRA, KHMP, NFKN, NFKS, TSKG
+Train #16031 (Andaman Express) references missing station code(s): WRD
+Train #16032 (Andaman Express) references missing station code(s): WRD
+Train #16108 (Mangalore Chennai Egmore Express) references missing station code(s): KALD, PKP
+Train #16209 (Ajmer-Mysore Express) references missing station code(s): NZH
+Train #16210 (Mysore-Ajmer Express) references missing station code(s): NZH
+Train #16215 (Chamundi Express) references missing station code(s): NZH
+Train #16216 (Chamundi Express) references missing station code(s): NZH
+Train #16231 (Mayiladuturai Mysore Express) references missing station code(s): NZH
+Train #16232 (Mysore Mayiladuturai Express) references missing station code(s): NZH
+Train #16309 (Ernakulam-Patna Express) references missing station code(s): PTG
+Train #16310 (Patna - Ernakulam Express) references missing station code(s): PTG
+Train #16322 (Tiruvananthapuram Bangalore Weekly Express) references missing station code(s): THZI
+Train #16323 (Trivandrum Shalimar Biweekly Express) references missing station code(s): THZI
+Train #16326 (Ahilyanagari Express) references missing station code(s): THZI, WRD
+Train #12809 (MUMBAI CST - HOWRAH SF Mail (via NAGPUR)) references missing station code(s): AQX, BDYD, BSGS, BSLX, BSPC, GVDP, SGBB
+Train #14003 (New Farakka-New Delhi Express) references missing station code(s): PTG
+Train #16221 (Kaveri Express) references missing station code(s): NZH
+Train #16317 (Himsagar Express) references missing station code(s): WRD
+Train #16318 (Himsagar Express) references missing station code(s): WRD
+Train #16318-Slip (Himsagar Express Slip) references missing station code(s): WRD
+Train #16324 (Shalimar Tiruvananthapuram Express) references missing station code(s): THZI
+Train #16325 (Ahilyanagari Express) references missing station code(s): THZI, WRD
+Train #16327 (Korba Tiruvananthapuram Express) references missing station code(s): WRD
+Train #16328 (Trivandrum-Korba Express) references missing station code(s): WRD
+Train #16335 (GANDHIDHAM - NAGERCOIL Weekly Exp) references missing station code(s): GNSYM, INDRG
+Train #16336 (NAGERCOIL - GANDHIDHAM Weekly Exp) references missing station code(s): GNSYM, INDRG
+Train #16337 (OKHA - ERNAKULAM Exp) references missing station code(s): SMYD
+Train #16341 (Guruvayur-Ernakulam-Trivandrum Intercity Express) references missing station code(s): THZI
+Train #16342 (Trivandrum-Ernakulam-Guruvayur Intercity Express) references missing station code(s): THZI
+Train #16347 (Trivandrum Mangalore Express) references missing station code(s): KALD, PKP
+Train #16348 (Trivandrum Express) references missing station code(s): KALD, PKP
+Train #16381 (Mumbai CST - Kanyakumari Express) references missing station code(s): NRPD
+Train #16382 (Kanniyakumari-Mumbai CST Express) references missing station code(s): NRPD
+Train #16517 (Yeshvantapur-Kannur Express) references missing station code(s): KALD, NZH, PKP
+Train #16529 (Udyan Express) references missing station code(s): NRPD
+Train #16530 (Udyan Express) references missing station code(s): NRPD
+Train #16560 (Yeshvantapur-Mysore Express) references missing station code(s): NZH
+Train #16360 (PATNA - ERNAKULAM Express) references missing station code(s): AMLX, AQX, DLWS, MGSO, PAIL, YY-DKJC
+Train #16501 (Ahmedabad Bangalore Express) references missing station code(s): NRPD
+Train #16502 (Bangalore - Ahmedabad (Weekly) Express) references missing station code(s): NRPD
+Train #16505 (GANDHIDHAM - BANGALORE Exp) references missing station code(s): GNSYM, INDRG, SREE
+Train #16506 (BANGALORE - GANDHIDHAM Exp) references missing station code(s): GNSYM, INDRG, SREE
+Train #16508 (BANGALORE - BHAGAT KI KOTHI Exp) references missing station code(s): ENBG, PNSR
+Train #16518 (Kannur-Yesvantpur Express) references missing station code(s): KALD, NZH, PKP
+Train #16534 (BANGALORE CITY - JODHPUR Exp) references missing station code(s): XX-GTLB, XX-HPTB, XX-TNGC
+Train #16557 (Rajya Rani Express) references missing station code(s): NZH
+Train #16559 (Mysore-Yeshvantapur Express) references missing station code(s): NZH
+Train #16593 (Nanded-Bangalore Express) references missing station code(s): NRPD
+Train #16594 (Bangalore-Nanded Express) references missing station code(s): NRPD
+Train #16605 (Eranad Express) references missing station code(s): KALD, PKP, THZI
+Train #16606 (Eranad Express) references missing station code(s): KALD, PKP, THZI
+Train #16687 (Navyug Express) references missing station code(s): KALD, PKP, WRD
+Train #16688 (Navyug Express) references missing station code(s): KALD, PKP, WRD
+Train #16688-Slip (Navyug Express Slip) references missing station code(s): WRD
+Train #16731 (Tuticorin Mysore Express) references missing station code(s): NZH
+Train #15653 (GUWAHATI - JAMMU TAWI Amarnath Exp) references missing station code(s): BJUP
+Train #16603 (Maveli Express) references missing station code(s): KALD, PKP, THZI
+Train #16604 (Maveli Express) references missing station code(s): KALD, PKP, THZI
+Train #16628 (West Coast Express) references missing station code(s): KALD, PKP
+Train #16629 (Malabar Express) references missing station code(s): KALD, PKP
+Train #16630 (Malabar Express) references missing station code(s): KALD, PKP
+Train #16649 (Parasuram Express) references missing station code(s): KALD, PKP
+Train #16650 (Parasuram Express) references missing station code(s): KALD, PKP
+Train #16732 (Mysore-Tuticorin Express) references missing station code(s): NZH
+Train #16733 (Rameswaram-Okha Express) references missing station code(s): CDLD
+Train #16734 (Okha-Rameswaram Express) references missing station code(s): CDLD
+Train #16779 (TIRUPATI - RAMESWARAM Exp) references missing station code(s): VMC
+Train #16780 (RAMESWARAM - TIRUPATI Exp) references missing station code(s): VMC
+Train #16787 (TIRUNELVELI - KATRA Exp) references missing station code(s): CRWL, LNMA
+Train #16861 (Tiruturaipudi Karaikkudi Express) references missing station code(s): AYI, KNPL, MTT, PKT, PVI, TAM, TCT, TTP, VMM
+Train #16862 (Karaikkudi Tiruturaipudi Express) references missing station code(s): AYI, KNPL, MTT, PKT, PVI, TAM, TCT, TTP, VMM
+Train #17003 (Hyderabad-Kolhapur BiWeekly Express) references missing station code(s): NRPD
+Train #17004 (Kolhapur-Hyderabad BiWeekly Express) references missing station code(s): NRPD
+Train #17203 (Bhavnagar(T)-Kakinada Town Express) references missing station code(s): CDLD
+Train #17204 (Kakinada Town- Bhavnagar Express) references missing station code(s): CDLD
+Train #17209 (BANGALORE - KAKINADA TOWN Seshadri Exp) references missing station code(s): BVAC, BVBC
+Train #17210 (KAKINADA TOWN -BANGALORE Seshadri Exp) references missing station code(s): BVAC, BVBC
+Train #17212 (Machilipatnam Express) references missing station code(s): VEP
+Train #17304 (Malgudi Express) references missing station code(s): NZH
+Train #17307 (Basava Express) references missing station code(s): NRPD
+Train #17309 (YESVANTPUR - VASCO DA GAMA Exp) references missing station code(s): SREE
+Train #15227 (YESVANTPUR - MUZAFFARPUR Weekly Exp) references missing station code(s): BJUP, BLYC, NFKN, NFKS, RLJC, RPMY
+Train #17017 (Rajkot Secunderabad Express) references missing station code(s): CDLD
+Train #17211 (Machilipatnam Yeshvantapur Express) references missing station code(s): VEP
+Train #17225 (Amaravati Express) references missing station code(s): VEP
+Train #17226 (Amaravati Express) references missing station code(s): VEP
+Train #17303 (Malgudi Express) references missing station code(s): NZH
+Train #17305 (Hubli-H.Nizamuddin Goa Express) references missing station code(s): HRD
+Train #17308 (Basava Express) references missing station code(s): NRPD
+Train #17312 (VASCO DA GAMA - CHENNAI CENT Exp) references missing station code(s): SREE
+Train #17313 (CHENNAI CENT - HUBLI Weekly Exp) references missing station code(s): SREE
+Train #17314 (HUBLI - CHENNAI CENT Weekly Exp) references missing station code(s): SREE
+Train #17315 (VASCO DA GAMA - VELANKANNI Weekly Exp) references missing station code(s): SREE
+Train #17316 (VELANKANNI - VASCO DA GAMA Weekly Exp) references missing station code(s): SREE
+Train #18002 (Kandari Express) references missing station code(s): GPLG
+Train #12574 (Howrah-SainagarShirdi Express) references missing station code(s): WRD
+Train #17429 (Rayalaseema Express) references missing station code(s): NRPD
+Train #17430 (Rayalaseema Express) references missing station code(s): NRPD
+Train #18048 (VASCO-DA-GAMA - HOWRAH Amaravati Exp) references missing station code(s): RLJC, YADA
+Train #18102 (Jammu-Rourkela Express) references missing station code(s): JONA
+Train #18191 (Utsarg Express) references missing station code(s): RVT
+Train #18192 (Utsarg Express) references missing station code(s): RVT
+Train #12380 (Amritsar - Sealdah Superfast Express) references missing station code(s): SGBA
+Train #14260 (LUCKNOW CHARBAGH - MUGHAL SARAI Ekatmata Exp) references missing station code(s): XX-BSBC
+Train #15901 (BENGALURU - NEW TINSUKIA Weekly Exp) references missing station code(s): BLYC, CPMR, GBY, IKC, KGPW, KHMP, LLHW, NFKN, NFKS, PNS, RLJC, RPMY
+Train #16312 (KOCHUVELI - BIKANER Express) references missing station code(s): ENBG, PNSR
+Train #17310 (VASCO DA GAMA - YESVANTPUR Exp) references missing station code(s): SREE
+Train #17609 (PATNA - PURNA Exp) references missing station code(s): PAIL
+Train #18029 (MUMBAI LTT [Kurla] - KOLKATA SALIMAR Exp) references missing station code(s): GVDP
+Train #18183 (Tata-Danapur Express) references missing station code(s): PTG
+Train #18184 (Danapur-Tatanagar Express) references missing station code(s): PTG
+Train #18203 (Betwa Express) references missing station code(s): GOV
+Train #18204 (Betwa Express) references missing station code(s): GOV
+Train #18234 (BILASPUR - INDORE Narmada Exp) references missing station code(s): XX-BSPY, YY-BPLC
+Train #18401 (Puri - Okha (Weekly) Express) references missing station code(s): CDLD
+Train #18449 (Baidyanathdham Express) references missing station code(s): PTG
+Train #18450 (Baidyanathdham Express) references missing station code(s): PTG
+Train #18463 (Prasanti Express) references missing station code(s): VEP
+Train #18464 (Prasanti Express) references missing station code(s): VEP
+Train #18602 (Jammu Tawi-Rourkela Express) references missing station code(s): JONA
+Train #18604 (Bhagalpur Ranchi Express) references missing station code(s): JONA
+Train #18605 (Ranchi-Jaynagar Express) references missing station code(s): JONA
+Train #13303 (Dhanbad Ranchi InterCity Express) references missing station code(s): JONA
+Train #18402 (Okha Puri Weekly Express) references missing station code(s): CDLD
+Train #18601 (Rourkela-JammuTawi Express) references missing station code(s): JONA
+Train #18603 (Ranchi-Bhagalpur Tri-Weekly Express) references missing station code(s): JONA
+Train #18606 (Jaynagar-Ranchi Express) references missing station code(s): JONA
+Train #18617 (Howrah-Ranchi Intercity) references missing station code(s): JONA
+Train #18621 (Patliputra Express) references missing station code(s): JONA, PTG
+Train #18624 (Hatia-Rajendranagar Express) references missing station code(s): JONA
+Train #18625 (Patna-Hatia Super Express) references missing station code(s): JONA
+Train #18626 (Hatia-Patna Super Express) references missing station code(s): JONA
+Train #18627 (Howrah-Ranchi InterCity Express) references missing station code(s): JONA
+Train #18628 (Ranchi-Howrah InterCity Express) references missing station code(s): JONA
+Train #19005 (Saurashtra Mail) references missing station code(s): CDLD
+Train #19005-Slip (Saurashtra Mail) references missing station code(s): CDLD
+Train #19006 (Saurashtra Mail) references missing station code(s): CDLD
+Train #19017 (Saurashtra Janata Express) references missing station code(s): CDLD
+Train #19049 (MUMBAI BANDRA T - PATNA Exp) references missing station code(s): OSHI
+Train #19050 (PATNA - MUMBAI BANDRA T Exp) references missing station code(s): OSHI
+Train #19053 (SURAT - MUZAFFARPUR Exp) references missing station code(s): LKOY
+Train #13006 (Amritsar Howrah Mail) references missing station code(s): PTG
+Train #18611 (Ranchi-Varanasi Express) references missing station code(s): JONA
+Train #18613 (Ranchi Chopan Express) references missing station code(s): JONA
+Train #18614 (Chopan Ranchi Express) references missing station code(s): JONA
+Train #18615 (HOWRAH - HATIA Kriya Yoga Express) references missing station code(s): GVDP
+Train #18622 (Patliputra Express) references missing station code(s): JONA, PTG
+Train #18623 (Patna Rajendra Nagar-Hatia Express) references missing station code(s): JONA
+Train #18631 (Ranchi Garib Nawaz Express) references missing station code(s): JONA
+Train #18632 (Garib Nawaz Express) references missing station code(s): JONA
+Train #19018 (Saurashtra Janata Express) references missing station code(s): CDLD
+Train #19025-Slip (Surat Bhavnagar Express Slip Slip) references missing station code(s): CDLD
+Train #19026 (Bhavnagar Surat (Slip) Express) references missing station code(s): CDLD
+Train #19048 (BHAGALPUR - SURAT Tapti Ganga Exp) references missing station code(s): PAIL
+Train #19059 (Surat-Jamnagar InterCity Express) references missing station code(s): CDLD
+Train #19060 (Jamnagar-Surat InterCity Express) references missing station code(s): CDLD
+Train #19116 (BHUJ - MUMBAI BANDRA Sayaji Nagari Exp) references missing station code(s): GNSYM, INDRG, OSHI
+Train #19132 (BHUJ - MUMBAI BANDRA Kutch Exp) references missing station code(s): GNSYM, INDRG, OSHI
+Train #19215 (Saurashtra Express) references missing station code(s): CDLD
+Train #19216 (Saurashtra Express) references missing station code(s): CDLD
+Train #19263 (Porbandar-Delhi Sarai Rohilla (Biweekly) Express) references missing station code(s): CDLD, TJNR
+Train #19264 (Delhi SaraiRohilla-Porbandar Express) references missing station code(s): CDLD, TJNR
+Train #19269 (Porbandar Muzaffarpur Express) references missing station code(s): CDLD, TJNR
+Train #19270 (Muzaffarpur-Porbandar Express) references missing station code(s): CDLD
+Train #19313 (Indore-Patna Express) references missing station code(s): GOV
+Train #14604 (AMRITSAR - SAHARSA Jan Sadharan Exp) references missing station code(s): DSKG
+Train #19105 (Ahmedabad-Haridwar Mail) references missing station code(s): TJNR
+Train #19119 (Ahmedabad Somnath Intercity Express) references missing station code(s): CDLD
+Train #19120 (Somnath Ahmedabad Intercity Express) references missing station code(s): CDLD
+Train #19165 (Sabarmati Express) references missing station code(s): GOV, RVT
+Train #19166 (Sabarmati Express) references missing station code(s): GOV, RVT
+Train #19167 (Sabarmati Express) references missing station code(s): GOV
+Train #19168 (Sabarmati Express) references missing station code(s): GOV
+Train #19221 (Ahmedabad-Veraval Somnath Express) references missing station code(s): CDLD
+Train #19222 (Veraval-Ahmedabad Somnath Express) references missing station code(s): CDLD
+Train #19314 (Patna Indore Express) references missing station code(s): GOV
+Train #19322 (Patna-Indore Express) references missing station code(s): GOV
+Train #19565 (Uttaranchal Express) references missing station code(s): TJNR
+Train #19566 (Uttranchal Express) references missing station code(s): TJNR
+Train #19601 (Ajmer New Jalpaiguri Weekly Express) references missing station code(s): TJNR
+Train #19602 (New Jalpaiguri Ajmer Weekly Express) references missing station code(s): TJNR
+Train #19603 (Ajmer-Sultanpur Weekly Express) references missing station code(s): TJNR
+Train #19604 (Sultanpur Ajmer Express) references missing station code(s): TJNR
+Train #19709 (JAIPUR - KAMAKHYA Kavi Guru Exp) references missing station code(s): BJUP, CPMR, PNS
+Train #19710 (KAMAKHYA - JAIPUR Kavi Guru Exp) references missing station code(s): BJUP, CPMR, PNS
+Train #19735 (Intercity Express) references missing station code(s): BOTR, BOX, NRKE
+Train #22112 (Nagpur-Bhusaval SF Express) references missing station code(s): HRD
+Train #19567 (TUTICORIN - OKHA Exp) references missing station code(s): DDBC, XX-CLDO, XX-KJMB, XX-MEJB, XX-SUNB, YY-WADB
+Train #19569 (Okha Varanasi Express) references missing station code(s): CDLD
+Train #19570 (Varanasi Okha Weekly Express) references missing station code(s): CDLD
+Train #19736 (Loharu-Jaipur Intercity Express) references missing station code(s): BOTR, BOX, NRKE
+Train #21028 (Solapur-Gondia Slip Exp.) references missing station code(s): WRD
+Train #22131 (PUNE - MANDUADIH Gyan Ganga Exp) references missing station code(s): DDAC
+Train #22132 (MANDUADIH - PUNE Gyan Ganga Exp) references missing station code(s): DDYX
+Train #22424 (New Delhi-Guwahati Rajdhani Express) references missing station code(s): AMJ, PTG
+Train #22471 (Bikaner - Delhi Sarai Rohilla SF Intercity Express) references missing station code(s): TJNR
+Train #22472 (Delhi Sarai Rohilla - Bikaner SF Intercity Express) references missing station code(s): TJNR
+Train #22681 (MYSORE - CHENNAI Weekly SF Exp) references missing station code(s): KNDV
+Train #22682 (CHENNAI - MYSORE Weekly SF Exp) references missing station code(s): KNDV
+Train #22905 (Okha Howrah Triweekly SF Express) references missing station code(s): AQX, BDX, BDYD, BSGS, BSLX, GVDP, KGPW, SGBB, XX-BDXO, XX-CLDO, XX-CPHO, XX-JSGB, XX-SUNB
+Train #22403 (Puducherry-New Delhi SF Express) references missing station code(s): WRD
+Train #22405 (Bhagalpur - Delhi AnandVihar T. Garib Rath Express) references missing station code(s): PTG
+Train #22423 (Guwahati-New Delhi Rajdhani Express) references missing station code(s): AMJ, PTG
+Train #22481 (Jodhpur-Delhi Sarai Rohilla Express) references missing station code(s): TJNR
+Train #22482 (Delhi Sarai Rohilla-Jodhpur Express) references missing station code(s): TJNR
+Train #22609 (Mangalore - Palghat Intercity Express) references missing station code(s): KALD, PKP
+Train #22610 (Palghat Mangalore Intercity) references missing station code(s): KALD, PKP
+Train #22688 (Chandigarh Chennai Express) references missing station code(s): WRD
+Train #22815 (Bilaspur-Ernakulam Express) references missing station code(s): WRD
+Train #22816 (Ernakulam-Bilaspur Express) references missing station code(s): WRD
+Train #23142 (Teesta Torsa Express) references missing station code(s): ER08, SGBA
+Train #23154 (Gour Express) references missing station code(s): SGBA
+Train #25610 (Jivachh Link Express) references missing station code(s): AMJ
+Train #25715 (Radhikapur Delhi Link Express) references missing station code(s): RVT
+Train #31393 (Sealdah-Kalyani Local) references missing station code(s): SGBA
+Train #31511 (Sealdah-Shantipur Local) references missing station code(s): SGBA
+Train #31581 (Sealdah-Shantipur-Krishnanagar City Local) references missing station code(s): SGBA
+Train #31801 (Sealdah KNJ Ladies Special) references missing station code(s): SGBA
+Train #31921 (SDAH GEDE LOCAL) references missing station code(s): SGBA
+Train #31923 (SDAH GEDE LOCAL) references missing station code(s): SGBA
+Train #31925 (SDAH GEDE LOCAL) references missing station code(s): SGBA
+Train #31927 (Sealdah Gede EMU) references missing station code(s): SGBA
+Train #31929 (Sealdah-Gede Local) references missing station code(s): SGBA
+Train #15657 (KOLKATA SEALDAH - GUWAHATI KanchanJungha Exp) references missing station code(s): BWND, GBY, IKC, KHMP, NFKN, NFKS, RPMY
+Train #23111 (Danapur Express) references missing station code(s): PTG
+Train #23225 (InterCity Link Express) references missing station code(s): PTG
+Train #23226 (InterCity Link Express) references missing station code(s): PTG
+Train #29059 (Hapa InterCity Express) references missing station code(s): CDLD
+Train #29060 (Surat InterCity Express) references missing station code(s): CDLD
+Train #31922 (GEDE SDAH LOCAL) references missing station code(s): SGBA
+Train #31924 (GEDE SDAH LOCAL) references missing station code(s): SGBA
+Train #31926 (GEDE SDAH LOCAL) references missing station code(s): SGBA
+Train #31930 (GEDE SDAH LOCAL) references missing station code(s): SGBA
+Train #32249 (Sealdah-Dankuni Local) references missing station code(s): SGBA
+Train #33512 (Hasanabad Sealdah EMU) references missing station code(s): KZPB, MTAP, SGBA
+Train #33533 (Sealdah-Hasnabad Local) references missing station code(s): SGBA
+Train #34502 (Sealdah Canning ladies special EMU) references missing station code(s): GQD
+Train #34554 (Sealdah-Canning Local) references missing station code(s): GQD
+Train #34557 (Canning Sealdah Local) references missing station code(s): GQD
+Train #34793 (Namkhana Sealdah Local) references missing station code(s): KRJN
+Train #34794 (Sealdah-Namkhana Local) references missing station code(s): KRJN
+Train #12665 (HOWRAH - KANNIYAKUMARI SF Exp) references missing station code(s): RLJC
+Train #12778 (TRIVANDRUM KOCHUVELI - HUBLI SF Exp) references missing station code(s): SREE
+Train #14707 (BIKANER - MUMBAI BANDRA Ranakpur Exp) references missing station code(s): OSHI
+Train #41001 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41003 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41005 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41007 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41009 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41011 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41013 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41015 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41017 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41019 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41023 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41025 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41027 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41029 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41031 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41033 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41035 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41037 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41039 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41041 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41043 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41045 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41047 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41049 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41051 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41053 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41055 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41059 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41063 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41067 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41069 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41071 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41073 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41075 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41077 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41079 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41081 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41083 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41085 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41087 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41089 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41091 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41093 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41095 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41097 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41099 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41101 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41103 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41105 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41107 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41109 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41111 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41113 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41115 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41117 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41119 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41121 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41123 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41064 (VLCY MSB LOCAL) references missing station code(s): INDR
+Train #41066 (Velachery Chennai Local) references missing station code(s): INDR
+Train #41112 (Velachery Chennai Beach Passenger) references missing station code(s): INDR
+Train #41125 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41127 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41129 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41131 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41133 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #41505 (Chennai Beach Velachery Sunday EMU) references missing station code(s): INDR
+Train #41507 (Chennai Beach Velachery Sunday EMU) references missing station code(s): INDR
+Train #22404 (New Delhi-Puducherry SF Exp) references missing station code(s): WRD
+Train #47176 (Lingampalli Falaknuma MMTS) references missing station code(s): YAKUT PUR(YKA
+Train #56214 (TIRUPATI - CHAMARAJANAGAR Fast Passenger) references missing station code(s): KNDV, MRLA
+Train #18612 (Varanasi-Ranchi Express) references missing station code(s): JONA
+Train #51187 (BHUSAVAL - KATNI Passenger) references missing station code(s): BSGS, BSLX
+Train #12434 (Delhi H.Nizamuddin-Chennai Central Rajdhani Expres) references missing station code(s): WRD
+Train #51157 (Bhusaval Itarsi Passenger) references missing station code(s): HRD
+Train #51259 (Wardha Nagpur Passenger) references missing station code(s): WRD
+Train #51260 (Nagpur Wardha Passenger) references missing station code(s): WRD
+Train #51286 (Nagpur Bhusaval Passenger) references missing station code(s): WRD
+Train #12368 (Vikramshila Express) references missing station code(s): PTG
+Train #51801 (Mahoba Kanpur Pass) references missing station code(s): GOV
+Train #51802 (Kanpur Mahoba Passenger) references missing station code(s): GOV
+Train #51813 (Jhansi Lucknow Passenger) references missing station code(s): GOV
+Train #51814 (Lucknow-Jhansi Passenger) references missing station code(s): GOV
+Train #52002 (Waghai Bilimora Mix Passenger) references missing station code(s): ANW, CIO, DNGD, DOLK, GNV, KMB, KVO, RW, UNI
+Train #52003 (Bilimora Waghai Mix Passenger) references missing station code(s): ANW, CIO, DNGD, DOLK, GNV, KMB, KVO, RW, UNI
+Train #52004 (Waghai Bilimora Mix Passenger) references missing station code(s): ANW, CIO, DNGD, DOLK, GNV, KMB, KVO, RW, UNI
+Train #52011 (Bilimora Waghai Pass) references missing station code(s): ANW, CIO, DNGD, DOLK, GNV, KMB, KVO, RW, UNI
+Train #52012 (Waghai Bilimora Pass) references missing station code(s): ANW, CIO, DNGD, DOLK, GNV, KMB, KVO, RW, UNI
+Train #52013 (Bilimora Waghai Pass) references missing station code(s): ANW, CIO, DNGD, DOLK, GNV, KMB, KVO, RW, UNI
+Train #52014 (Waghai Bilimora Pass) references missing station code(s): ANW, CIO, DNGD, DOLK, GNV, KMB, KVO, RW, UNI
+Train #52015 (Bharuch Kavi Passenger) references missing station code(s): JMB, JMBC, KNGM, KORA
+Train #52020 (Dabhoi Miyagam Passenger) references missing station code(s): BRPM, GNPT, KNDR, KV, NADA, PRKA, VRJ
+Train #52021 (Moti Koral Miyagam Mix Passenger) references missing station code(s): BCHR, BRTL, CRND, MKRL, NRUR, SNAD
+Train #52022 (Miyagam Moti Koral Mix Passenger) references missing station code(s): BCHR, BRTL, CRND, MKRL, NRUR, SNAD
+Train #52023 (Malsar Dabhoi Mix Passenger) references missing station code(s): BRPM, BRTL, CRND, GNPT, KNDR, NADA, PRKA
+Train #52024 (Dabhoi Malsar Mix Passenger) references missing station code(s): BRPM, BRTL, CRND, GNPT, KNDR, NADA, PRKA
+Train #52025 (Dabhoi Chandod Mix Passenger) references missing station code(s): VRJ
+Train #52026 (Chandod Dabhoi Mix Passenger) references missing station code(s): VRJ
+Train #52027 (Choranda Dabhoi Mix Passenger) references missing station code(s): BRPM, BRTL, CRND, GNPT, KNDR, NADA, PRKA
+Train #52028 (Dabhoi Choranda Mix Passenger) references missing station code(s): BRPM, BRTL, CRND, GNPT, KNDR, NADA, PRKA
+Train #52033 (Jambusar Pratapnagar Mix Passenger) references missing station code(s): ANKI, ATDA, BHOJ, JMB, KORL, MBH, RPP, VSI
+Train #52034 (Pratapnagar Jambusar Mix Passenger) references missing station code(s): ANKI, ATDA, BHOJ, JMB, KORL, MBH, RPP, VSI
+Train #52035 (Jambusar Pratapnagar Passenger) references missing station code(s): ANKI, ATDA, BHOJ, JMB, KORL, MBH, RPP, VSI
+Train #52036 (Pratapnagar Jambusar Passenger) references missing station code(s): ANKI, ATDA, BHOJ, JMB, KORL, MBH, RPP, VSI
+Train #52037 (Nadiad Bhadran Mix Passenger) references missing station code(s): BDRN, DEWA, DMJ, PIJ, SJTR, VASO, VOL
+Train #52038 (Bhadran Nadiad Mix Passenger) references missing station code(s): BDRN, DEWA, DMJ, PIJ, SJTR, VASO, VOL
+Train #52041 (Miyagam Dabhoi Mix Passenger) references missing station code(s): BRPM, GNPT, KNDR, NADA, PRKA
+Train #52042 (Dabhoi Jn Miyagam Jn NG Passenger) references missing station code(s): BRPM, GNPT, KNDR, NADA, PRKA
+Train #52045 (Miyagam Dabhoi Mix Passenger) references missing station code(s): BRPM, GNPT, KNDR, KV, NADA, PRKA
+Train #52046 (Dabhoi Miyagam Mix Passenger) references missing station code(s): BRPM, GNPT, KNDR, KV, NADA, PRKA
+Train #52048 (Umarpada Kosamba Passenger) references missing station code(s): ASM, KR, KSAI, LMB, MNGV, SMDR, UMPD, VLC
+Train #52082 (Loharu Jaipur Passenger) references missing station code(s): BOTR, BOX, NRKE
+Train #52083 (Jaipur Loharu Passenger) references missing station code(s): BOTR, BOX, NRKE
+Train #52084 (Loharu Jaipur Passenger) references missing station code(s): BOTR, BOX, NRKE
+Train #52121 (Pachora Jamner Passenger) references missing station code(s): BGR, PHU, PMGN, SDRN, VRKD
+Train #52123 (Pachora Jamner Passenger) references missing station code(s): BGR, PHU, PMGN, SDRN, VRKD
+Train #52131 (Murtajapur Yavatmal Passenger) references missing station code(s): BDKE, DWM, KQV, KRJT, LDD, LSN, MZRT, POHE, SMTN, SWQ, TPN, VLN, WRD
+Train #52132 (Yavatmal Murtajapur Passenger) references missing station code(s): BDKE, DWM, KQV, KRJT, LDD, LSN, MZRT, POHE, SMTN, SWQ, TPN, VLN, WRD
+Train #52137 (Murtajapur Achalpur Passenger) references missing station code(s): BASA, CMK, KSBG, KTNI, KXD, LGN, LPU, NBGH, PTRT
+Train #52138 (Achalpur Murtajapur Passenger) references missing station code(s): BASA, CMK, KSBG, KTNI, KXD, LGN, LPU, NBGH, PTRT
+Train #52143 (Pulgaon Arvi Passenger) references missing station code(s): ARVI, DNZ, KBGN, PRGT, VUL
+Train #52144 (Arvi Pulgaon Passenger) references missing station code(s): ARVI, DNZ, KBGN, PRGT, VUL
+Train #15959 (HOWRAH - DIBRUGARH Kamrup Exp) references missing station code(s): GBY, IKC, IPRA, KHMP, NFKN, NFKS, TSKG
+Train #52122 (Jamner Pachora Passenger) references missing station code(s): BGR, PHU, PMGN, SDRN, VRKD
+Train #52124 (Jamner Pachora Passenger) references missing station code(s): BGR, PHU, PMGN, SDRN, VRKD
+Train #52171 (Gwalior Sheopur Passenger) references missing station code(s): DURP
+Train #52201 (Kasganj Lalkuan Passenger) references missing station code(s): LKKA, MQW
+Train #52202 (Lalkuan Kasganj Passenger) references missing station code(s): LKKA, MQW
+Train #52203 (Kasganj Tanakpur Passenger) references missing station code(s): MQW
+Train #52204 (Tanakpur-Bareilly Passenger) references missing station code(s): MQW
+Train #52205 (Kasganj Pilibhit Passenger) references missing station code(s): MQW
+Train #52206 (Pilibhit Kasganj Passenger) references missing station code(s): MQW
+Train #52207 (Kasganj Pilibhit Passenger) references missing station code(s): MQW
+Train #52208 (Pilibhit Kasganj Passenger) references missing station code(s): MQW
+Train #52209 (Bareilly Lalkuan Passenger) references missing station code(s): LKKA
+Train #52210 (Lalkuan Bareilly Passenger) references missing station code(s): LKKA
+Train #52211 (Bareilly Lal Kuan Passenger) references missing station code(s): LKKA
+Train #52212 (Lal Kuan Bareilly Passenger) references missing station code(s): LKKA
+Train #52217 (Kasganj Bareilly Passenger) references missing station code(s): MQW
+Train #52218 (Bareilly Kasganj Passenger) references missing station code(s): MQW
+Train #52229 (Shahjahanpur Tanakpur Passenger) references missing station code(s): ARX
+Train #52230 (Tanakpur Shahjahanpur Passenger) references missing station code(s): ARX
+Train #52231 (Pilibhit Shahjahanpur Passenger) references missing station code(s): ARX
+Train #52232 (Shahjahanpur Pilibhit Passenger) references missing station code(s): ARX
+Train #52233 (Pilibhit Shahjahanpur Passenger) references missing station code(s): ARX, KIE
+Train #52234 (Shahjahanpur Pilibhit Passenger) references missing station code(s): ARX, KIE
+Train #52236 (Shahjahanpur Pilibhit Passenger) references missing station code(s): ARX, KIE
+Train #52243 (PILIBHIT - AISHBAGH PASSENGER) references missing station code(s): HALT
+Train #52287 (Thawe Chhapra Passenger) references missing station code(s): LKKA
+Train #52288 (Chhapra Thawe Passenger) references missing station code(s): LKKA
+Train #52301 (Balgona-Katwa Fast Local) references missing station code(s): BCF, KCY, NGX, SIZ, SOF, SPS
+Train #52302 (Katwa Balgona Local) references missing station code(s): BCF, KCY, NGX, SIZ, SOF, SPS
+Train #52322 (Saharsa-Forbesganj Passenger) references missing station code(s): NPV, PPV, SHKY, SRGR
+Train #52323 (Forbesganj-Saharsa Passenger) references missing station code(s): NPV, PPV, SHKY, SRGR
+Train #52324 (Saharsa-forbesganj Passenger) references missing station code(s): NPV, PPV, SHKY, SRGR
+Train #52325 (Forbesganj-Saharsa Passenger) references missing station code(s): NPV, PPV, SHKY, SRGR
+Train #52326 (Saharsa-Forbesganj Passenger) references missing station code(s): NPV, PPV, SHKY, SRGR
+Train #52327 (Forbesganj-Saharsa Passenger) references missing station code(s): NPV, PPV, SHKY, SRGR
+Train #52328 (Saharsa-Forbesganj Passenger) references missing station code(s): NPV, PPV, SHKY, SRGR
+Train #52329 (Forbesganj-Saharsa Passenger) references missing station code(s): NPV, PPV, SHKY, SRGR
+Train #52330 (Saharsa-Forbesganj Passenger) references missing station code(s): NPV, PPV, SHKY, SRGR
+Train #16311 (BIKANER - KOCHUVELI Express) references missing station code(s): ENBG, PNSR
+Train #52501 (BhikhnaThori Narkatiaganj Passenger) references missing station code(s): BHWR
+Train #52502 (Narkatiaganj Bhikhna Thori Passenger) references missing station code(s): BHWR
+Train #52515 (Jhanjharpur Laukaha Bazar Passenger) references missing station code(s): BHHT, CDMA, JJPR
+Train #52516 (Laukaha Bazar Jhanjharpur Passenger) references missing station code(s): BHHT, CDMA, JJPR
+Train #52523 (Sakri Nirmali Passenger) references missing station code(s): CKNA
+Train #52524 (Nirmali Sakri Pass) references missing station code(s): CKNA
+Train #52525 (Sakri Nirmali Pass) references missing station code(s): CKNA
+Train #52526 (Nirmali Sakri Passenger) references missing station code(s): CKNA
+Train #52527 (Sakri Nirmali Pass) references missing station code(s): CKNA
+Train #52528 (Nirmali Sakri Pass) references missing station code(s): CKNA
+Train #52529 (Sakri Nirmali Pass) references missing station code(s): CKNA
+Train #52530 (Nirmali Sakri Pass) references missing station code(s): CKNA
+Train #52531 (Sakri Nirmali Pass) references missing station code(s): CKNA
+Train #52532 (Nirmali Sakri Pass) references missing station code(s): CKNA
+Train #52536 (Bihariganj Purnia Passenger) references missing station code(s): ATX, KTNR, PRNC
+Train #52538 (Bihariganj Purnia Passenger) references missing station code(s): KTNR, PRNC
+Train #52552 (Murliganj-Purnia Passenger) references missing station code(s): KTNR, PRNC
+Train #52553 (Purnia Murliganj Passenger) references missing station code(s): KTNR, PRNC
+Train #18005 (HOWRAH - JAGDALPUR Samaleshwari Exp) references missing station code(s): GVDP
+Train #52554 (Muraliganj Purnia Passenger) references missing station code(s): KTNR, PRNC
+Train #52911 (Ranuj Ahmedabad Fast Passenger) references missing station code(s): AKL, BATS, BMDI, DEU
+Train #52912 (Ahmedabad Ranuj Fast Passenger) references missing station code(s): AKL, BATS, BMDI, DEU
+Train #52913 (Patan Ahmedabad Passenger) references missing station code(s): AKL, BATS, BMDI, DEU
+Train #52914 (Ahmedabad Ranuj Passenger) references missing station code(s): AKL, BATS, BMDI, DEU
+Train #22464 (Rajasthan Sampark Kranti Express) references missing station code(s): TJNR
+Train #52957 (Ratlam Mhow Fast Passenger) references missing station code(s): PRNG, SNBD
+Train #52958 (Mhow Ratlam Fast Passenger) references missing station code(s): PRNG, SNBD
+Train #52959 (Ratlam Mhow Fast Passenger) references missing station code(s): PRNG, SNBD
+Train #52960 (Mhow Ratlam Fast Passenger) references missing station code(s): PRNG, SNBD
+Train #52961 (Ratlam Mhow Fast Passenger) references missing station code(s): PRNG, SNBD
+Train #52962 (Mhow Ratlam Fast Passenger) references missing station code(s): PRNG, SNBD
+Train #52963 (Ratlam Mhow Fast Passenger) references missing station code(s): PRNG, SNBD
+Train #52964 (Mhow Ratlam Fast Passenger) references missing station code(s): PRNG, SNBD
+Train #52965 (Ratlam Mhow Fast Passenger) references missing station code(s): PRNG, SNBD
+Train #52966 (Mhow Ratlam Passenger) references missing station code(s): PRNG, SNBD
+Train #52973 (Ratlam Akola Passenger) references missing station code(s): KQV, PRNG, SNBD
+Train #52975 (Ratlam Akola Passenger) references missing station code(s): KQV, PRNG, SNBD
+Train #52976 (Akola Ratlam Fast Pass) references missing station code(s): KQV, PRNG, SNBD
+Train #15632-Slip (Guwahati Barmer Express Slip) references missing station code(s): AMJ, PTG
+Train #25631 (Bikaner Guwahati Express) references missing station code(s): BJUP, CPPR, GBY, IKC, KHMP, PAIL
+Train #52987 (Mhow Akola Fast Passenger) references missing station code(s): KQV
+Train #52988 (Akola Mhow Fast Passenger) references missing station code(s): KQV
+Train #52993 (Mhow Akola Passenger) references missing station code(s): KQV
+Train #52994 (Akola Mhow Passenger) references missing station code(s): KQV
+Train #53001 (Howrah Azimganj Passenger) references missing station code(s): ER08
+Train #53002 (Azimganj Howrah Passenger) references missing station code(s): ER08
+Train #53003 (Howrah Malda Town Fast Passenger) references missing station code(s): ER08
+Train #53004 (Malda Howrah Fast Passenger) references missing station code(s): ER08
+Train #53062 (Hatia Barddhaman Passenger) references missing station code(s): JONA
+Train #53208 (Buxar Islampur Passenger) references missing station code(s): PTG
+Train #18047 (HOWRAH - VASCO DA GAMA Amravati Exp) references missing station code(s): RLJC, YADA
+Train #53132 (Muzaffarpur Sealdah Passenger) references missing station code(s): SGBA
+Train #53135 (Sealdah Rampurhat Passenger) references missing station code(s): SGBA
+Train #53136 (Rampurhat Sealdah Passenger) references missing station code(s): SGBA
+Train #53172 (Lalgola Sealdah Passenger) references missing station code(s): SGBA
+Train #53173 (Sealdah Lalgola Passenger) references missing station code(s): SGBA
+Train #53174 (Lalgola Sealdah Passenger) references missing station code(s): SGBA
+Train #53175 (Sealdah Lalgola Passenger) references missing station code(s): SGBA
+Train #53177 (Sealdah Lalgola Fast Passenger) references missing station code(s): SGBA
+Train #53178 (Lalgola Sealdah Fast Passenger) references missing station code(s): SGBA
+Train #53180 (Lalgola Kolkata Passenger) references missing station code(s): SGBA
+Train #53181 (Lalgola Passenger) references missing station code(s): SGBA
+Train #53207 (Islampur Buxar Passenger) references missing station code(s): PTG
+Train #53227 (Darbhanga-Patna Kamala Ganga Fast Passenger) references missing station code(s): PTG
+Train #53228 (Kamla Ganga Fast Passenger) references missing station code(s): PTG
+Train #53229 (Rajgir Danapur Passenger) references missing station code(s): PTG
+Train #53230 (Danapur Rajgir Passenger) references missing station code(s): PTG
+Train #53231 (Danapur Rajgir Passenger) references missing station code(s): PTG
+Train #53232 (Rajgir Danapur Passenger) references missing station code(s): PTG
+Train #53336 (Ranchi Dhanbad Passenger) references missing station code(s): JONA
+Train #53337 (Garhbeta Ranchi Passenger) references missing station code(s): JONA
+Train #53338 (Ranchi Garhbeta Passenger) references missing station code(s): JONA
+Train #53551 (Jasidih-Dumka Passenger) references missing station code(s): MDNP
+Train #11055 (MUMBAI LTT - GORAKHPUR Exp) references missing station code(s): PFMA
+Train #32252 (Dankuni Sealdah Local) references missing station code(s): SGBA
+Train #53552 (Dumka-Jasidih Passenger) references missing station code(s): MDNP
+Train #53554 (Dumka-Jasidih Passenger) references missing station code(s): MDNP
+Train #53643 (Dildarnagar Tarighat Passenger) references missing station code(s): NXR, SAHA
+Train #53644 (Tarighat Dildarnagar Passenger) references missing station code(s): NXR, SAHA
+Train #53645 (Dildarnagar Tarighat Passenger) references missing station code(s): NXR, SAHA
+Train #53646 (Tarighat Dildarnagar Passenger) references missing station code(s): NXR, SAHA
+Train #53647 (Dildarnagar Tarighat Passenger) references missing station code(s): NXR
+Train #54011 (Rewari Passenger) references missing station code(s): TJNR
+Train #54012 (Rewari Tilak Bridge Passenger) references missing station code(s): TJNR
+Train #53648 (Tarighat Dildarnagar Passenger) references missing station code(s): NXR
+Train #54006 (JIND - ROHTAK Passenger (UnReserved)) references missing station code(s): SPBK
+Train #54007 (ROHTAK - PANIPAT - JIND Passenger (UnReserved)) references missing station code(s): SPBK
+Train #54085 (Delhi Rewari Pass) references missing station code(s): TJNR
+Train #54086 (Rewari Delhi Pass) references missing station code(s): TJNR
+Train #54157 (Jhansi Kanpur Passenger) references missing station code(s): GOV
+Train #54158 (Kanpur Jhansi Passenger) references missing station code(s): GOV
+Train #54155 (Manikpur Kanpur Passenger) references missing station code(s): GOV
+Train #54156 (Kanpur Manikpur Passenger) references missing station code(s): GOV
+Train #54310 (Rewari Delhi Passenger) references missing station code(s): TJNR
+Train #12285 (Secunderabad- Hazrat Nizamuddin Duronto Express) references missing station code(s): WRD
+Train #22111 (Bhusaval Nagpur (Triweekly) Express) references missing station code(s): HRD
+Train #54464 (RISHIKESH - BANDIKUI Passenger) references missing station code(s): YY-IDHW
+Train #54411 (Rewari Meerut Cantt. Passenger) references missing station code(s): TJNR
+Train #54412 (Meerut NDLS Rewari Passenger) references missing station code(s): TJNR
+Train #54413 (Delhi Rewari Passenger) references missing station code(s): TJNR
+Train #54414 (Rewari Delhi Passenger) references missing station code(s): TJNR
+Train #54416 (Rewari Delhi Sarai Rohilla Passenger) references missing station code(s): TJNR
+Train #54417 (Delhi Rewari Passenger) references missing station code(s): TJNR
+Train #54418 (Rewari Delhi Passenger) references missing station code(s): TJNR
+Train #54419 (Delhi Sarai Rohilla Rewari Passenger) references missing station code(s): TJNR
+Train #54420 (Rewari Delhi Passenger) references missing station code(s): TJNR
+Train #54421 (Rewari Delhi Sarai Rohilla Passenger) references missing station code(s): TJNR
+Train #54422 (Rewari Delhi Sarai Rohilla Passenger) references missing station code(s): TJNR
+Train #54463 (BANDIKUI - RISHIKESH Passenger) references missing station code(s): YY-IDHW
+Train #54785 (Firozpur Fazilka Passenger) references missing station code(s): DAVC
+Train #54786 (Fazilka Fir Passenger) references missing station code(s): DAVC
+Train #55008 (Thawe Hajipur Passenger) references missing station code(s): GALG
+Train #55013 (Chhapra Varanasi Passenger) references missing station code(s): RVT
+Train #55017 (Chhapra-Mau Passenger) references missing station code(s): RVT
+Train #55018 (Mau- Chhapra Passenger) references missing station code(s): RVT
+Train #53474 (JAMALPUR MONGHYAR PASS) references missing station code(s): MGR, PBS
+Train #55042 (Gorakhpur Hajipur Passenger) references missing station code(s): PHLG
+Train #55131 (Chhapra Varanasi Passenger) references missing station code(s): RVT
+Train #55132 (Manduadih Chhapra Passenger) references missing station code(s): RVT
+Train #55322 (RAMNAGAR - VARANASI Passenger) references missing station code(s): XX-BSBC
+Train #55506 (Runnisaidpur-Samastipur Passenger) references missing station code(s): XBAC
+Train #55507 (Darbhanga-Bairgania Passenger) references missing station code(s): XBAC
+Train #55508 (Bairgania-Darbhanga Passenger) references missing station code(s): XBAC
+Train #55509 (Darbhanga-Bairgania Passenger) references missing station code(s): XBAC
+Train #55510 (Bairgania-Darbhanga Passenger) references missing station code(s): XBAC
+Train #55511 (Darbhanga-Bairgania Passenger) references missing station code(s): XBAC
+Train #55512 (Bairgania-Darbhanga Passenger) references missing station code(s): XBAC
+Train #55575 (Darbhanga-Biraul Passenger) references missing station code(s): BPAH, JPAH, NUIH
+Train #55576 (Biraul-Darbhanga Passenger) references missing station code(s): BPAH, JPAH, NUIH
+Train #55577 (Sakri Biraul Passenger) references missing station code(s): BPAH, JPAH, NUIH
+Train #55578 (Biraul Sakri Passenger) references missing station code(s): BPAH, JPAH, NUIH
+Train #55802 (Manas Rhino Passenger) references missing station code(s): AMJ
+Train #55809 (New Bongaigaon Guwahati Passenger) references missing station code(s): AMJ
+Train #56213 (CHAMARAJANAGAR - TIRUPATI Fast Passenger) references missing station code(s): KNDV, MRLA
+Train #56136 (Mettupalayam-Ooty Passenger) references missing station code(s): HLG
+Train #56137 (Ooty-Mettupalayam Passenger) references missing station code(s): HLG
+Train #56229 (Mysore Bangalore Passenger) references missing station code(s): NZH
+Train #56230 (Bangalore Mysore Passenger) references missing station code(s): NZH
+Train #56231 (Mysore Bangalore (PUSH-PULL) Passenger) references missing station code(s): NZH
+Train #56232 (Bangalore Mysore (PUSH-PULL) Passenger(Shuttle)) references missing station code(s): NZH
+Train #56233 (Bangalore Mysore Passenger) references missing station code(s): NZH
+Train #56234 (Mysore Bangalore Passenger) references missing station code(s): NZH
+Train #56237 (Mysore Bangalore (PUSH-PULL) Passenger) references missing station code(s): NZH
+Train #56238 (Bangalore Mysore (PUSH-PULL) Passenger) references missing station code(s): NZH
+Train #56263 (Night Queen Passenger) references missing station code(s): NZH
+Train #56264 (Night Queen Passenger) references missing station code(s): NZH
+Train #56300 (Kollam Alappuzha Passenger) references missing station code(s): THZI
+Train #56301 (Alappuzha Kollam Passenger) references missing station code(s): THZI
+Train #56323 (Coimbatore Mangalore Fast Passenger) references missing station code(s): KALD, PKP
+Train #56324 (Coimbatore Fast Passenger) references missing station code(s): KALD, PKP
+Train #56503 (Yesvantapur-Vijayawada Passenger) references missing station code(s): VEP
+Train #56504 (Vijayawada Yesvantapur Passenger) references missing station code(s): VEP
+Train #56377 (Allepey Kayankulam Passenger) references missing station code(s): THZI
+Train #56380 (Kayankulam Ernakulam Passenger) references missing station code(s): THZI
+Train #56381 (Ernakulam Kayankulam Passenger) references missing station code(s): THZI
+Train #56382 (Kayankulam Ernakulam Passenger) references missing station code(s): THZI
+Train #56383 (Ernakulam Kayankulam Passenger) references missing station code(s): THZI
+Train #56501 (Vijayawada Hubli Passenger) references missing station code(s): VEP
+Train #56502 (Hubli Vijayawada Passenger) references missing station code(s): VEP
+Train #56654 (Kozhikode Passenger) references missing station code(s): KALD, PKP
+Train #56655 (Kannur Mangalore Passenger) references missing station code(s): KALD, PKP
+Train #56656 (Kannur Passenger) references missing station code(s): KALD, PKP
+Train #56661 (Charvattur Mangalore Passenger) references missing station code(s): KALD, PKP
+Train #14523 (Harihar Express) references missing station code(s): RVT
+Train #56890 (Tiruturaipdi Tiruvarur Passenger) references missing station code(s): AMNR, ATB, MARD, MAX, MNLI, TNK, TTP
+Train #56891 (Thiruvarur Karaikkudi Passenger) references missing station code(s): AMNR, ATB, AYI, KNPL, MARD, MAX, MNLI, MTT, PKT, PVI, TAM, TCT, TNK, TTP, VMM
+Train #56892 (Karaikkudi Thiruvarur Passenger) references missing station code(s): AMNR, ATB, AYI, KNPL, MARD, MAX, MNLI, MTT, PKT, PVI, TAM, TCT, TNK, TTP, VMM
+Train #56893 (Thiruvarur Karaikkudi Passenger) references missing station code(s): AMNR, ATB, AYI, KNPL, MARD, MAX, MNLI, MTT, PKT, PVI, TAM, TCT, TNK, TTP, VMM
+Train #56894 (Karaikkudi Thiruvarur Passenger) references missing station code(s): AMNR, ATB, AYI, KNPL, MARD, MAX, MNLI, MTT, PKT, PVI, TAM, TCT, TNK, TTP, VMM
+Train #57133 (Bijapur Raichur Passenger) references missing station code(s): NRPD
+Train #57134 (Raichur Bijapur Passenger) references missing station code(s): NRPD
+Train #57207 (Tenali Markapur Road Passenger) references missing station code(s): VEP
+Train #57208 (Markapur Road Guntur Passenger) references missing station code(s): VEP
+Train #53131 (Sealdah Muzaffarpur Fast Passenger) references missing station code(s): SGBA
+Train #57135 (Nagpur Kazipet Passenger) references missing station code(s): WRD
+Train #57136 (Kazipet Nagpur Passenger) references missing station code(s): WRD
+Train #57226 (Visakhapatnam Vijayawada Passenger) references missing station code(s): KAPM
+Train #57305 (Kacheguda Guntur Fast Passenger) references missing station code(s): VEP
+Train #57306 (Guntur Secunderabad Passenger) references missing station code(s): VEP
+Train #57327 (Dronachellam Guntur Passenger) references missing station code(s): VEP
+Train #57328 (Guntur Dhone Passenger) references missing station code(s): VEP
+Train #58026 (Hatia Kharagpur Passenger) references missing station code(s): JONA
+Train #58101 (Tatanagar Badampahar Passenger) references missing station code(s): BDO
+Train #58717 (Telibandha Rajim Passenger) references missing station code(s): P
+Train #58718 (RAJIM TELIBANDHA PASS) references missing station code(s): P
+Train #59049 (Valsad Viramgam Passenger) references missing station code(s): CDLD
+Train #59101 (Vadodara Kathana Passenger) references missing station code(s): RAS
+Train #59102 (Kathana Vadodara Passenger) references missing station code(s): RAS
+Train #59103 (Vadodara Kathana Passenger) references missing station code(s): RAS
+Train #59104 (Kathana Vadodara Passenger) references missing station code(s): RAS
+Train #59115 (Anand Godhra Passenger) references missing station code(s): AAV
+Train #59116 (Godhra Anand Passenger) references missing station code(s): AAV
+Train #59165 (Anand Godhra Passenger) references missing station code(s): AAV
+Train #59166 (Godhra Anand Passenger) references missing station code(s): AAV
+Train #59230 (Bhavnagar Botad Passenger) references missing station code(s): CDLD
+Train #59386-Slip2 (Panchvalley Passenger Slip2) references missing station code(s): GOV
+Train #59460 (Veraval Mumbai Central Passenger Express) references missing station code(s): CDLD
+Train #59475 (Mahesana Patan Passenger) references missing station code(s): MRD
+Train #59476 (Patan Mehsana Passenger) references missing station code(s): MRD
+Train #59477 (Mahesana Patan Passenger) references missing station code(s): MRD
+Train #59478 (Patan Mehsana Passenger) references missing station code(s): MRD
+Train #59481 (Haldighati Passenger) references missing station code(s): MRD
+Train #59482 (Patan Mahesana Passenger) references missing station code(s): MRD
+Train #59483 (AHMEDABAD PATAN PASS) references missing station code(s): MRD
+Train #59484 (Patan Mahesana DMU) references missing station code(s): MRD
+Train #59547 (Ahmedabad Okha Passenger) references missing station code(s): CDLD
+Train #59548 (Okha Ahmedabad Passenger) references missing station code(s): CDLD
+Train #63207 (Jhajha Patna Passenger MEMU) references missing station code(s): PTG
+Train #63208 (Patna Jhajha Passenger MEMU) references missing station code(s): PTG
+Train #63209 (Jhajha Patna MEMU) references missing station code(s): PTG
+Train #63212 (Patna-Jhajha Passenger MEMU) references missing station code(s): PTG
+Train #63217 (Mokama Danapur Passenger) references missing station code(s): PTG
+Train #63218 (Danapur Mokameh passenger) references missing station code(s): PTG
+Train #13257 (DANAPUR - DELHI ANAND VIHAR Jan Sadharan Express) references missing station code(s): MGSO, PAIL
+Train #57326 (GUNTUR - KACHEGUDA PASS) references missing station code(s): YADA, YAKUT PUR(YKA
+Train #57325 (KACHEGUDA - GUNTUR PASS) references missing station code(s): YADA, YAKUT PUR(YKA
+Train #12319 (KOLKATA CHITPUR - AGRA CANTT SF Exp) references missing station code(s): ETYD, JUNC, KANL, LCAB, MTUJ, ULR
+Train #12407 (NEW JALPAIGURI - AMRITSAR Karmabhoomi Exp) references missing station code(s): DSKG, IKC, KHMP
+Train #12495 (BIKANER - KOLKATA CHITPUR Pratap Exp) references missing station code(s): KANL
+Train #12513 (SECUNDERABAD - GUWAHATI Exp) references missing station code(s): BLYC, GBY, IKC, KHMP, NFKN, NFKS, RLJC, RPMY
+Train #12591 (GORAKHPUR - YESVANTPUR SF Exp) references missing station code(s): AMLX, AQX, WDC, YY-MLYB, YY-WADB
+Train #12735 (SECUNDERABAD - YESVANTPUR Garib Rath Exp) references missing station code(s): WDC
+Train #12736 (YESVANTPUR - SECUNDERABAD Garib Rath Exp) references missing station code(s): WDC
+Train #12993 (GANDHIDHAM - PURI SF Exp) references missing station code(s): GNSYM, INDRG
+Train #12994 (PURI - GANDHIDHAM SF Exp) references missing station code(s): GNSYM, INDRG
+Train #15024 (YESVANTPUR - GORAKHPUR Exp) references missing station code(s): VAH
+Train #15234 (DARBHANGA - KOLKATA CHITPUR Maithili Exp) references missing station code(s): CCSJ, CLWS, ETYD, JUNC, KANL, LCAB, ULR, YY-BJUC
+Train #18616 (HATIA - HOWRAH Kriya Yoga Express) references missing station code(s): GVDP
+Train #51158 (Itarsi Bhusaval Passenger) references missing station code(s): HRD
+Train #52238 (AISHBAGH - PILIBHIT PASS) references missing station code(s): HALT
+Train #11028 (Chennai-Mumbai CST Mail) references missing station code(s): NRPD
+Train #11042 (ChennaiCentral-CST Mumbai Express) references missing station code(s): NRPD
+Train #12007 (CHENNAI CENT - MYSORE Shatabdi Express) references missing station code(s): CNP, KNDV, PHVP
+Train #15619 (GAYA - KAMAKHYA Weekly Exp) references missing station code(s): GBY, IKC, KHMP
+Train #16222 (Kaveri Express) references missing station code(s): NZH
+Train #16627 (West Coast Express) references missing station code(s): KALD, PKP
+Train #17311 (CHENNAI CENT - VASCO DA GAMA Exp) references missing station code(s): SREE
+Train #19025 (Surat Bhavnagar Express Slip) references missing station code(s): CDLD
+Train #51285 (Bhusaval Nagpur Passenger) references missing station code(s): WRD
+Train #52047 (Kosamba Umarpada Passenger) references missing station code(s): ASM, KR, KSAI, LMB, MNGV, SMDR, UMPD, VLC
+Train #54101 (Allahabad Kanpur Passenger) references missing station code(s): BHRD
+Train #55801 (Manas Rhino Passenger) references missing station code(s): AMJ
+Train #57631 (Solapur-Raichur Passenger) references missing station code(s): NRPD
+Train #12221 (PUNE - HOWRAH AC Duronto Exp) references missing station code(s): AQX, BDX, BDYD, BSGS, BSLX, DDAC, GVDP, KGPW, SGBB, XX-ANK, XX-BDXO, XX-CPHO, XX-JSGB
+Train #17639 (KACHEGUDA - AKOLA Intercity Exp) references missing station code(s): CIKA
+Train #17640 (AKOLA - KACHEGUDA Intercity Exp) references missing station code(s): CIKA
+Train #19066 (BHAGAT KI KOTHI - MUMBAI BANDRA Exp) references missing station code(s): OSHI
+Train #52019 (Miyagam Chandod Mix Passenger) references missing station code(s): BRPM, GNPT, KNDR, NADA, PRKA, VRJ
+Train #52551 (Purnia Murliganj Passenger) references missing station code(s): KTNR, PRNC
+Train #52555 (Purnia Murliganj Passenger) references missing station code(s): ATX, KTNR, PRNC
+Train #55022 (Siwan Samastipur Intercity Passenger) references missing station code(s): GALG
+Train #55335 (Bareilly Lalkua Pass) references missing station code(s): LKKA
+Train #12335 (BHAGALPUR - MUMBAI LTT SF Exp) references missing station code(s): CPPR, JMSY, PAIL
+Train #12349 (Bhagalpur-NewDelhi Weekly SF Express) references missing station code(s): PTG
+Train #13402 (InterCity Express) references missing station code(s): PTG
+Train #19047 (SURAT - BHAGALPUR Tapti Ganga Exp) references missing station code(s): PAIL
+Train #52081 (Jaipur Loharu Fast Passenger) references missing station code(s): BOTR, BOX, NRKE
+Train #52974 (Akola Ratlam Fast Passenger) references missing station code(s): KQV, PRNG, SNBD
+Train #56378 (Kayankulam Alappuzha Passenger) references missing station code(s): THZI
+Train #57624 (Guntur Kacheguda Pass) references missing station code(s): VEP
+Train #02094 (Loharu - Jaipur Passenger Spl (MG)) references missing station code(s): BOTR, BOX, NRKE
+Train #22406 (AnandVihar Terminal-Bhagalpur Garib Rath) references missing station code(s): PTG
+Train #01102 (Gwalior Mumbai LTT (Weekly) Special) references missing station code(s): HRD
+Train #02414 (Sri Ganganagar Sadulpur Passenger Holiday Special) references missing station code(s): KALN, NRWI, SHRG, TLI
+Train #07143 (Hyderabad - C.Shahu Maharaj T. Kolhapur Special) references missing station code(s): NRPD
+Train #08060 (Howrah - Mumbai LTT SF Special) references missing station code(s): WRD
+Train #05649 (Mumbai LTT - Kamakhya (Weekly) Special) references missing station code(s): HRD, PTG
+Train #01101 (Mumbai LTT - Gwalior (Weekly) Special) references missing station code(s): HRD
+Train #04012 (H. Nizamuddin - Sainagar Shirdi (Weekly) Special) references missing station code(s): HRD
+Train #07106 (Hyderabad-Ajmer Weekly Special) references missing station code(s): HRD
+Train #11013 (Mumbai LTT-Coimbatore Express) references missing station code(s): NRPD
+Train #09722 (Delhi Sarai Rohilla -Jaipur SF Special) references missing station code(s): TJNR
+Train #11061 (MUMBAI LTT - DARBHANGA Pawan Exp) references missing station code(s): BSGS, BSLX, IGPX
+Train #12019 (Howrah-Ranchi Shatabdi Express) references missing station code(s): JONA
+Train #12142 (PATLIPUTRA - MUMBAI LTT SF Exp) references missing station code(s): BSGS, BSLX, IGPX, MGSO, PAIL
+Train #12346 (GUWAHATI - HOWRAH Saraighat SF Exp) references missing station code(s): BLYC, GBY, IKC, KHMP, LLHW, NFKN, NFKS, RPMY
+Train #12283 (ERNAKULAM - DELHI H NIZAMUDDIN Duronto Exp) references missing station code(s): KTTY, OKAC
+Train #12146 (PURI - MUMBAI LTT SF Exp) references missing station code(s): BDYD, BSGS, BSLX, BSPC, SGBB
+Train #12722-Slip (Dakshin Link SF Express) references missing station code(s): WRD
+Train #12317 (KOLKATA SEALDAH - AMRITSAR Akal Takht Exp) references missing station code(s): CLWS, CPPR, KANL, PAIL
+Train #12619 (MUMBAI LTT - MANGALORE CENT Matsyagandha Exp) references missing station code(s): XX-TNAB
+Train #12193 (Bhopal Partapgarh Express) references missing station code(s): GOV
+Train #12165 (MUMBAI LTT - VARANASI Ratnagiri Exp) references missing station code(s): IGPX, PFMA
+Train #12615 (Grand Trunk (GT) Express) references missing station code(s): WRD
+Train #12286 (Hazrat Nizamuddin-Secunderabad Duronto Express) references missing station code(s): WRD
+Train #12463 (Rajasthan Sampark Kranti Express) references missing station code(s): TJNR
+Train #12350 (NewDelhi-Bhagalpur Weekly SF Express) references missing station code(s): PTG
+Train #12546 (MUMBAI LTT - RAXAUL Karmabhoomi Exp) references missing station code(s): CPPR, PAIL
+Train #12336 (MUMBAI LTT - BHAGALPUR SF Exp) references missing station code(s): CPPR, PAIL
+Train #12315 (Ananya Express) references missing station code(s): PTG, SGBA
+Train #12580 (Puri Digha Samudra Kanya Super Fast Express) references missing station code(s): GPLG
+Train #12542 (Mumbai LTT-Gorakhpur SF Express) references missing station code(s): GOV, HRD
+Train #12653 (Tiruchirappalli Mangalore Weekly Superfast Express) references missing station code(s): KALD, PKP
+Train #12463-Slip (Rajasthan Sampark Kranti Express Slip) references missing station code(s): TJNR
+Train #12561 (Swatantrata Sainani Express) references missing station code(s): RVT
+Train #12687-Slip (Chennai Chandigarh Express Slip) references missing station code(s): WRD
+Train #12782 (Nizamuddin-Mysore Swarna Jayanti Express) references missing station code(s): HRD
+Train #12803 (Visakhapatnam-Nizamuddin SwarnaJayanthi Express) references missing station code(s): WRD
+Train #12810 (HOWRAH - MUMBAI CST SF Mail (via NAGPUR)) references missing station code(s): GVDP
+Train #12826 (Jharkhand Sampark Kranti Express) references missing station code(s): JONA
+Train #12847 (Howrah-Digha AC Duronto Express) references missing station code(s): GPLG
+Train #12848 (Digha-Howrah AC Duronto Express) references missing station code(s): GPLG
+Train #12849 (Bilaspur Pune SF Express) references missing station code(s): WRD
+Train #12850 (Pune Bilaspur Superfast Express) references missing station code(s): WRD
+Train #12857 (Tamralipta Express) references missing station code(s): GPLG
+Train #12858 (Tamralipta Express) references missing station code(s): GPLG
+Train #12859 (MUMBAI CST - HOWRAH Gitanjali Exp) references missing station code(s): GVDP
+Train #12860 (HOWRAH - MUMBAI CST Gitanjali Exp) references missing station code(s): GVDP
+Train #12861 (Link Superfast Express) references missing station code(s): WRD
+Train #12863 (HOWRAH - YESVANTPUR SF Exp) references missing station code(s): RLJC
+Train #52332 (Saharsa-Raghopur Passenger) references missing station code(s): BCM, KDRA, NDLH, NRPM, RGV, SHKY, SRGR, VDNP
+Train #13201 (RAJENDRA NAGAR PATNA - MUMBAI LTT Janta Exp) references missing station code(s): PAIL
+Train #12878 (New Delhi-Ranchi Garib Rath) references missing station code(s): JONA
+Train #12987 (Sealdah Ajmer Express) references missing station code(s): SGBA
+Train #15233 (KOLKATA CHITPUR - DARBHANGA Maithili Exp) references missing station code(s): CCSJ, CLWS, ETYD, JUNC, KANL, LCAB, ULR, YY-BJUC
+Train #12869 (MUMBAI CST - HOWRAH SF Exp) references missing station code(s): GVDP
+Train #14312 (BHUJ - BAREILLY Ala Hazrat Exp) references missing station code(s): ENBG, GNSYM, INDRG, PNSR
+Train #12905 (PORBANDAR - HOWRAH SF Exp) references missing station code(s): GVDP
+Train #12870 (HOWRAH - MUMBAI CST SF Exp) references missing station code(s): GVDP
+Train #13187 (Maa Tara Express) references missing station code(s): SGBA
+Train #12972 (Bhavnagar Bandra Express) references missing station code(s): CDLD
+Train #12906 (HOWRAH - PORBANDAR SF Exp) references missing station code(s): GVDP
+Train #12871 (HOWRAH - TITLAGARH Ispat Exp) references missing station code(s): GVDP
+Train #13153 (Sealdah-Malda Town Gour Express) references missing station code(s): SGBA
+Train #13403 (Vananchal Express) references missing station code(s): JONA
+Train #13503 (Sealdah-Asansol InterCity Express) references missing station code(s): SGBA
+Train #16107 (Chennai Egmore-Mangalore Express) references missing station code(s): KALD, PKP
+Train #14659 (Delhi-Jaisalmer Express) references missing station code(s): TJNR
+Train #15651 (GUWAHATI - JAMMU TAWI Lohit Exp) references missing station code(s): BJUP
+Train #16321 (Bangalore Tiruvananthapuram Weekly Express) references missing station code(s): THZI
+Train #17018 (Secunderabad - Rajkot Express) references missing station code(s): CDLD
+Train #16507 (BHAGAT KI KOTHI - BANGALORE Exp) references missing station code(s): ENBG, PNSR
+Train #16558 (Bangalore Mysore Rajya Rani Express) references missing station code(s): NZH
+Train #18001 (Kandari Express) references missing station code(s): GPLG
+Train #18006 (JAGDALPUR - HOWRAH Samaleshwari Exp) references missing station code(s): GVDP
+Train #22823 (BHUBANESWAR - NEW DELHI RAJDHANI Express) references missing station code(s): GVDP, KGPW, RLJC
+Train #18618 (Ranchi-Howrah Intercity) references missing station code(s): JONA
+Train #41503 (Chennai Beach Velachery Sunday EMU) references missing station code(s): INDR
+Train #18030 (KOLKATA SALIMAR - MUMBAI LTT [Kurla] Exp) references missing station code(s): GVDP
+Train #33593 (Sealdah-Basirath Local) references missing station code(s): SGBA
+Train #19106 (Haridwar-Ahmedabad Mail) references missing station code(s): TJNR
+Train #41021 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #22824 (NEW DELHI - BHUBANESWAR Rajdhani Exp (Via Bokaro)) references missing station code(s): GVDP, RLJC
+Train #19115 (MUMBAI BANDRA - BHUJ Sayaji Nagari Exp) references missing station code(s): GNSYM, INDRG, OSHI
+Train #41065 (Chennai Beach Velachery EMU) references missing station code(s): INDR
+Train #52321 (Forbesganj-Saharsa Passenger) references missing station code(s): NPV, PPV, SHKY, SRGR
+Train #52331 (Raghopur-Saharsa Passenger) references missing station code(s): BCM, KDRA, NDLH, NRPM, RGV, SHKY, SRGR, VDNP
+Train #52405 (Hanumangarh Suratgarh Passenger) references missing station code(s): KALN, NRWI, SHRG, TLI
+Train #52406 (Suratgarh Hanumangarh Passenger) references missing station code(s): KALN, NRWI, SHRG, TLI
+Train #52407 (Sadulpur Suratgarh Passenger) references missing station code(s): KALN, NRWI, SHRG, TLI
+Train #52408 (Suratgarh Sadulpur Passenger) references missing station code(s): HSWS, KALN, NRWI, SHRG, SURR, TLI
+Train #52411 (Sadulpur Shri Ganganagar Passenger) references missing station code(s): KALN, NRWI, SHRG, TLI
+Train #52412 (Shri Ganganagar Sadulpur Passenger) references missing station code(s): KALN, NRWI, SHRG, TLI
+Train #52413 (SDLP SOG PASS) references missing station code(s): KALN, NRWI, SHRG, TLI
+Train #52414 (SOG SDLP PASS) references missing station code(s): HSWS, KALN, NRWI, SHRG, SURR, TLI
+Train #52415 (Hanumangarh Suratgarh Passenger) references missing station code(s): KALN, NRWI, SHRG, TLI
+Train #52451 (Shivalik Deluxe Express) references missing station code(s): SBY
+Train #52452 (Shivalik Deluxe Express) references missing station code(s): SBY
+Train #52453 (Kalka Shimla Express) references missing station code(s): SBY
+Train #52454 (Shimla Kalka Express) references missing station code(s): SBY
+Train #52455 (Himalayan Queen) references missing station code(s): SBY
+Train #52456 (Himalayan Queen) references missing station code(s): SBY
+Train #52457 (Kalka Shimla Passenger) references missing station code(s): SBY
+Train #52458 (Shimla Kalka Passenger) references missing station code(s): SBY
+Train #56889 (Tiruvarur Tiruturaipudi Passenger) references missing station code(s): AMNR, ATB, MARD, MAX, MNLI, TNK, TTP
+Train #54309 (Delhi Rewari Passenger) references missing station code(s): TJNR
+Train #55810 (Guwahati New Bongaigaon Passenger) references missing station code(s): AMJ
+Train #55014 (Manduadih Chhapra Passenger) references missing station code(s): RVT
+Train #54415 (Delhi Sarai Rohilla Rewari Passenger) references missing station code(s): TJNR
+Train #57632 (Guntakal Gulbarga Passenger) references missing station code(s): NRPD
+Train #67295 (Rajahmundry Visakhapatnam Pass) references missing station code(s): KAPM
+Train #59050 (Viramgam Valsad Passenger) references missing station code(s): CDLD
+Train #83112 (Danapur Giridih Express) references missing station code(s): PTG
